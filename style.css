@@ -535,6 +535,8 @@ gap: 50px;
   color: #fff;
   background-color: #000;
 }
+
+/* query */
 @media (max-width: 760px) {
   .menu {
     flex-direction: column;
@@ -563,5 +565,5 @@ gap: 50px;
     right: 0;
   }
 
-  
+
 }
