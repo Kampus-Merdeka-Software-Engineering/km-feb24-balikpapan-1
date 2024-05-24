@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VendinGenie</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <link href="https://fonts.googleapis.com/css2?family=Kaisei+Decol&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Kaisei Decol', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #F4FEFF;
+        }
+
+        .header {
+            background-color: #ffffff;
+            padding: 20px 0;
+            border-bottom: 3px solid #0000ff;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+
+        .logo img {
+            width: 100px;
+            height: auto;
+        }
+
+        .nav {
+            float: right;
+        }
+
+        .nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .nav li {
+            display: inline-block;
+            margin-left: 20px;
+        }
+
+        .nav a {
+            text-decoration: none;
+            color: #333;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+
+        .nav a:hover, .nav a.active {
+            background-color: #d1b3ff;
+            color: #fff;
+        }
+
+        .main {
+            padding: 40px 0;
+            background-color: #F4FEFF;
+        }
+
+        .contact-section {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 100px;
+            grid-template-columns: 1fr 1fr;
+            
+        }
+
+        .vending-machine img {
+            width: 250px;
+            height: 370px;
+            margin-top: 80px;
+        }
+
+        .banner{
+            font-size: 35px;
+            font-weight: bold;
+            color: #712FDA;
+            text-align: center;
+            grid-column: span 1;
+            margin-bottom: 50px;
+            margin-top: 100px;
+            
+        } 
+
+        .blurb {
+            font-size: 35px;
+            font-weight: bold;
+            color: #712FDA;
+            text-align: center;
+            grid-column: span 1;
+            margin-top: 50px;
+        }
+
+        .contact-form {
+            width: 50%;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #F4FEFF;
+            color: #707BAA;
+            margin: auto; 
+        }
+
+        .contact-form input{
+            margin-bottom: 40px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 2px rgba(0, 0, 0, 0.4);
+            width: 70%;
+            box-sizing: border-box;
+            height: 40px;
+            color: #333; /* Warna teks input */
+        }
+
+        .contact-form textarea {
+            margin-bottom: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 2px rgba(0, 0, 0, 0.4);
+            width: 100%;
+            box-sizing: border-box;
+            font: optional;
+            color: #333; /* Warna teks textarea */
+        }
+
+        .contact-form input::placeholder, .contact-form textarea::placeholder {
+            color: #707BAA; /* Warna placeholder */
+        }
+
+        .contact-form textarea {
+            resize: vertical;
+            /* margin-top: 15px; */
+            margin-bottom: 30px;
+            height: 100px;
+        }
+
+        .button-wrapper {
+            display: flex;
+            justify-content: center;
+        }
+
+        .contact-form button {
+            padding: 15px 35px;
+            background-color: #B19DFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            margin-top: 15px;
+        }
+
+        .contact-form button:hover {
+            background-color: #a494d4;
+        }
+
+        .footer {
+            background-color: #e6ccff;
+            padding: 20px 0;
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            align-items: flex-start;
+            text-align: left;
+        }
+
+        .footer .contact-info, .footer .office-info {
+            width: 45%;
+        }
+
+        .footer .contact-info h3, .footer .office-info h3 {
+            margin-top: 0;
+        }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <nav>
+        <ul class="nav-bar">
+          <li class="logo">
+            <a href="#"><img src="./assets/logo.png" alt="logo" /></a>
+            <div class="text">
+              <p class="tx-1">V E N D I N G</p>
+              <p class="tx-2">G E N I E</p>
+            </div>
+          </li>
+          <input type="checkbox" id="check" />
+          <div class="menu">
+            <li><a href="home.html">Home</a></li>
+            <li><a href="report.html">Report</a></li>
+            <li><a href="Contact.html">Contact Us</a></li>
+            <label for="check" class="close-menu"
+              ><i class="bx bx-x"></i
+            ></label>
+          </div>
+          <label for="check" class="open-menu"
+            ><i class="bx bx-menu"></i
+          ></label>
+        </ul>
+      </nav>
+    </header>
+
+    <main class="main">
+        <!-- <div class="container"> -->
+            <div class="contact-section">
+                <div>
+                <div class="vending-machine">
+                    <img src="./assets/image-sani.png" alt="Vending Machine">
+                </div>
+                <div class="vending-machine">
+                    <img src="./assets/image-accesorist.png" alt="Vending Machine">
+                </div>
+                </div>
+                <div>
+                    <div class="banner">Contact us today to discuss your vending machine needs and let us help you create a customized solution that aligns with your business goals.</div>
+                    <div class="contact-form">
+                        <form action="#">
+                            <input type="text" id="name" name="name" placeholder="Name" required>
+                            <input type="email" id="email" name="email" placeholder="Email" required>
+                            <textarea id="message" name="message" placeholder="Message" required></textarea>
+                            <div class="button-wrapper">
+                                <button type="submit">Get VendinGenie</button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="blurb">Don't miss out on the opportunity to elevate your business with VendinGenie</div>
+                </div>
+            </div>
+        </div>
+    </main>
+    
+
+    <footer>
+      <div class="footer">
+        <div class="contact">
+          <p>Contact Us</p>
+          <div class="mail">
+            <i class="bx bxl-gmail"></i>
+            <p>: Supportgenie@gmail.com</p>
+          </div>
+          <div class="phone">
+            <i class="bx bxs-phone-call"></i>
+            <p>: +62 1234 5678</p>
+          </div>
+        </div>
+
+        <div class="addres-box">
+          <p>Our Office</p>
+          <div class="row">
+            <i class="bx bx-map"></i>
+            <div class="column">
+              <p class="indo">Indonesia</p>
+              <p class="loc">Jalan kenangan,...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bl">
+        <p>Copyright&copy;2024 Team1.RevoU</p>
+      </div>
+    </footer>
+  </body>
+</html>
