@@ -171,19 +171,19 @@ body {
   width: 100%;
   height: 450px;
   flex-direction: column;
-  margin: 12% 5% 0 35%;
+  margin: 12% 5% 0 37%;
   gap: 50px;
 }
 
 .p-1 {
   color: var(--ungutua);
   font-weight: 700;
-  font-size: 3em;
+  font-size: 2.7em;
 }
 .p-2 {
   color: var(--ungutua);
   font-weight: 400;
-  font-size: 2em;
+  font-size: 1.4em;
 }
 
 /* container 2 */
@@ -242,7 +242,7 @@ body {
   flex-direction: row;
   position: absolute;
   margin-top: 230px;
-  margin-left: -320px;
+  margin-left: -220px;
 }
 
 .img-logo img {
@@ -554,19 +554,29 @@ body {
 @media (max-width: 1080px) {
   .container {
     width: 100%;
-    height: 65vh;
-  }
-  .container-2 {
-    width: 100%;
-    height: 65vh;
-  }
-  .img-1 img {
-    width: 300px;
-    height: 350px;
   }
 
+  .img-logo img {
+    width: 250px;
+    margin-top: 40px;
+  }
+
+  .img-1 img {
+    width: 280px;
+    height: 320px;
+  }
+  .p-logo {
+    margin-right: -170px;
+    bottom: 10px;
+  }
+  .p-logo .tx-1 {
+    font-size: 3em;
+  }
+  .p-logo .tx-2 {
+    font-size: 1em;
+  }
   .text-box {
-    margin-left: 300px;
+    margin-left: 330px;
   }
   .p-1 {
     font-size: 1.7em;
@@ -586,11 +596,11 @@ body {
   .circle-pink-1 {
     width: 140px;
     height: 110px;
-    top: 400px;
+    top: 370px;
   }
 
   .circle-ungu-1 {
-    bottom: 190px;
+    bottom: 10px;
   }
 
   .text-center {
@@ -606,8 +616,8 @@ body {
 
   .circle-ungu-2 {
     bottom: 70px;
-    width: 90px;
-    height: 120px;
+    width: 80px;
+    height: 110px;
   }
 
   .card {
@@ -650,8 +660,9 @@ body {
     display: flex;
   }
 
-  .text-center {
-    width: 90%;
+  .text-center-2 {
+    width: 80%;
+    margin-top: 90px;
   }
 }
 
@@ -724,13 +735,14 @@ body {
   }
 
   .circle-grey-2 {
-    width: 50px;
-    height: 50px;
+    width: 45px;
+    height: 45px;
+    top: 170px;
   }
   .circle-ungu-2 {
-    bottom: 10px;
-    width: 20px;
-    height: 40px;
+    bottom: 140px;
+    width: 60px;
+    height: 90px;
   }
 
   .img-logo {
@@ -740,7 +752,7 @@ body {
     width: 250px;
   }
 
-  .p-logo{
+  .p-logo {
     margin-right: -180px;
   }
   .p-logo .tx-1 {
@@ -759,7 +771,7 @@ body {
     height: 340px;
   }
 
-  .card-row-1{
+  .card-row-1 {
     justify-content: end;
   }
 
@@ -802,8 +814,8 @@ body {
     display: flex;
   }
 
-  .text-center-2{
-    top: -70px;
+  .text-center-2 {
+    top: 20px;
   }
   .text-bottom {
     position: absolute;
@@ -818,8 +830,8 @@ body {
   }
 
   .circle-grey-3 {
-    width: 70px;
-    height: 110px;
+    width: 50px;
+    height: 100px;
     bottom: 180px;
   }
 
@@ -828,7 +840,7 @@ body {
     height: 100px;
   }
 
-  .container-3{
+  .container-3 {
     height: 1700px;
   }
 }
