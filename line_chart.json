@@ -4,7 +4,7 @@
       {
         "label": "Revenue",
         "data": [950, 1051, 1338, 1790, 1894, 2177, 2529, 2404, 2015, 1894, 1762, 1140],
-        "backgroundColor": "rgba(75, 192, 192, 0.2)",
+        "backgroundColor": "rgba(75, 192, 192, 0.3)",
         "borderColor": "rgba(75, 192, 192, 1)",
         "borderWidth": 1,
         "pointBackgroundColor": "rgba(75, 192, 192, 1)",
@@ -15,7 +15,7 @@
       {
         "label": "Transaction",
         "data": [482, 492, 633, 866, 854, 999, 1121, 1022, 840, 820, 794, 513],
-        "backgroundColor": "rgba(255, 99, 132, 0.2)",
+        "backgroundColor": "rgba(255, 99, 132, 0.3)",
         "borderColor": "rgba(255, 99, 132, 1)",
         "borderWidth": 1,
         "pointBackgroundColor": "rgba(255, 99, 132, 1)",
