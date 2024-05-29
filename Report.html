@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Transaction and Revenue Data</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+      .scorecard {
+        display: inline-block;
+        margin: 20px;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        text-align: center;
+        font-size: 18px;
+      }
+      .scorecard h3 {
+        margin: 0 0 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <select id="data-filter" onchange="updateChart(),updateBarChart()">
+        <option value="cumulative">Cumulative</option>
+        <option value="mesinA">Mesin A</option>
+        <option value="mesinB">Mesin B</option>
+      </select>
+    </div>
+    <div class="scorecards">
+      <div id="transaction-scorecard" class="scorecard">
+        <h3>Transaction</h3>
+        <hr />
+        <p id="transaction-total">0</p>
+      </div>
+      <div id="revenue-scorecard" class="scorecard">
+        <h3>Revenue</h3>
+        <hr />
+        <p id="revenue-total">0</p>
+      </div>
+    </div>
+    <canvas id="line-chart"></canvas>
+    <canvas id="bar-chart"></canvas>
+
+  </body>
+  
+  <script src="line_chart.js"></script>
+  <script src="bar_chart.js"></script>
+</html>
