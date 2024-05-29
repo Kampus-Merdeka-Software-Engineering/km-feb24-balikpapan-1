@@ -1,0 +1,13 @@
+{
+    "labels": ["food", "drink"],
+    "cumulative": {
+      "Transaction": [382, 292]
+    },
+    "mesinA": {
+      "Transaction": [82, 92]
+    },
+    "mesinB": {
+      "Transaction": [22, 62]
+    }
+  }
+  
