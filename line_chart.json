@@ -1,28 +1,32 @@
-  {
-    "labels": ["January 2022", "February 2022", "March 2022", "April 2022", "May 2022", "June 2022", "July 2022", "August 2022", "September 2022", "October 2022", "November 2022", "December 2022"],
-    "datasets": [
-      {
-        "label": "Revenue",
-        "data": [950, 1051, 1338, 1790, 1894, 2177, 2529, 2404, 2015, 1894, 1762, 1140],
-        "backgroundColor": "rgba(75, 192, 192, 0.3)",
-        "borderColor": "rgba(75, 192, 192, 1)",
-        "borderWidth": 1,
-        "pointBackgroundColor": "rgba(75, 192, 192, 1)",
-        "pointRadius": 3,
-        "pointHoverRadius": 5,
-        "pointHoverBackgroundColor": "rgba(75, 192, 192, 1)"
-      },
-      {
-        "label": "Transaction",
-        "data": [482, 492, 633, 866, 854, 999, 1121, 1022, 840, 820, 794, 513],
-        "backgroundColor": "rgba(255, 99, 132, 0.3)",
-        "borderColor": "rgba(255, 99, 132, 1)",
-        "borderWidth": 1,
-        "pointBackgroundColor": "rgba(255, 99, 132, 1)",
-        "pointRadius": 3,
-        "pointHoverRadius": 5,
-        "pointHoverBackgroundColor": "rgba(255, 99, 132, 1)"
-      }
-
+{
+  "labels": [
+    "January 2022",
+    "February 2022",
+    "March 2022",
+    "April 2022",
+    "May 2022",
+    "June 2022",
+    "July 2022",
+    "August 2022",
+    "September 2022",
+    "October 2022",
+    "November 2022",
+    "December 2022"
+  ],
+  "cumulative": {
+    "Revenue": [
+      950, 1051, 1338, 1790, 1894, 2177, 2529, 2404, 2015, 1894, 1762, 1140
+    ],
+    "Transaction": [
+      482, 492, 633, 866, 854, 999, 1121, 1022, 840, 820, 794, 513
     ]
+  },
+  "mesinA": {
+    "Revenue": [987, 673, 124, 789, 1055, 674, 786, 1032, 453, 1098, 500, 543],
+    "Transaction": [42, 92, 333, 866, 254, 912, 121, 122, 240, 810, 494, 213]
+  },
+  "mesinB": {
+    "Revenue": [887, 273, 724, 289, 455, 974, 886, 332, 853, 498, 200, 643],
+    "Transaction": [482, 492, 633, 266, 254, 499, 112, 222, 240, 82, 94, 113]
   }
+}
