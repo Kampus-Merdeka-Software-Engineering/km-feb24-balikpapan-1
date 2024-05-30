@@ -23,7 +23,7 @@ function initializeBarChart(labels, dataset) {
           display: true,
           text: "Category",
           font: {
-            size: 44,
+            size: 24,
             color: "#333",
           },
         },
@@ -35,6 +35,15 @@ function initializeBarChart(labels, dataset) {
               size: 16,
             },
           },
+        },
+        datalabels: {
+          anchor: 'end',
+          align: 'end',
+          color: '#555',
+          font: {
+            size: 12,
+            weight: 'bold'
+          }
         },
       },
       scales: {
@@ -63,6 +72,7 @@ function initializeBarChart(labels, dataset) {
         },
       },
     },
+    plugins: [ChartDataLabels], // Tambahkan plugin ChartDataLabels
   });
 }
 
@@ -74,10 +84,10 @@ async function updateBarChart() {
 
   const dataset = [
     {
-      label: "Transaction",
-      data: selectedData.Transaction,
-      backgroundColor: "rgba(275, 192, 192, 0.9)",
-      borderColor: "rgba(75, 192, 192, 1)",
+      label: "Customer",
+      data: selectedData.Customer,
+      backgroundColor: "rgba(245, 245, 66, 0.5)",
+      borderColor: "rgba(245, 245, 66, 1)",
       borderWidth: 3,
     },
   ];
