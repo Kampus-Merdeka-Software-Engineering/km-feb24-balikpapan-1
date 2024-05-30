@@ -1,13 +1,21 @@
 {
-    "labels": ["food", "drink"],
-    "cumulative": {
-      "Transaction": [382, 292]
-    },
-    "mesinA": {
-      "Transaction": [82, 92]
-    },
-    "mesinB": {
-      "Transaction": [22, 62]
-    }
+  "labels": ["Food", "Carbonated","Non Carbonated","Water"],
+  "cumulative": {
+    "Customer": [5144, 2409,1023,633]
+  },
+  "GuttenPlans x1367": {
+    "Customer": [1608, 1526,324,null]
+  },
+  "EB Public Library x1380": {
+    "Customer": [1892, 472,396,278]
+  },
+  "Earle Asphalt x1371": {
+    "Customer": [874, 67,38,16]
+  },
+  "BSQ Mall x1364 - Zales": {
+    "Customer": [421, 207,156,124]
+  },
+  "BSQ Mall x1366 - ATT": {
+    "Customer": [319, 188,132,123]
   }
-  
+}
