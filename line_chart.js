@@ -60,6 +60,9 @@ function initializeChart(labels, datasets) {
               size: 14,
               color: "#999",
             },
+            callback: function(value) {
+              return '$' + value.toLocaleString();
+            }
           },
         },
       },
@@ -78,7 +81,7 @@ function initializeChart(labels, datasets) {
 }
 
 // Function untuk meng-update data sesuai filter
- async function updateChart() {
+async function updateChart() {
   const dataFilter = document.getElementById("data-filter").value;
   const data = await fetchData();
   const selectedData = data[dataFilter];
@@ -128,11 +131,11 @@ function initializeChart(labels, datasets) {
 
   // Update scorecards
   document.getElementById("transaction-total").innerText =
-    selectedData.Transaction.reduce((a, b) => a + b, 0);
+    selectedData.Transaction.reduce((a, b) => a + b, 0).toLocaleString();
   document.getElementById("revenue-total").innerText =
-    selectedData.Revenue.reduce((a, b) => a + b, 0);
+    '$' + selectedData.Revenue.reduce((a, b) => a + b, 0).toLocaleString();
   document.getElementById("customer-total").innerText =
-    selectedData.Customer.reduce((a, b) => a + b, 0);
+    selectedData.Customer.reduce((a, b) => a + b, 0).toLocaleString();
 }
 
 // Initialize the chart with the default dataset (Cumulative)
