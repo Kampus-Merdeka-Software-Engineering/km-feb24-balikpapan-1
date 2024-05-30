@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Transaction and Revenue Data</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
     <style>
       .scorecard {
         display: inline-block;
@@ -23,10 +24,16 @@
   </head>
   <body>
     <div>
-      <select id="data-filter" onchange="updateChart(),updateBarChart()">
+      <select
+        id="data-filter"
+        onchange="updateChart(),updateBarChart()"
+      >
         <option value="cumulative">Cumulative</option>
-        <option value="mesinA">Mesin A</option>
-        <option value="mesinB">Mesin B</option>
+        <option value="GuttenPlans x1367">GuttenPlans x1367</option>
+        <option value="EB Public Library x1380"> EB Public Library x1380</option>
+        <option value="Earle Asphalt x1371">Earle Asphalt x1371 </option>
+        <option value="BSQ Mall x1364 - Zales">BSQ Mall x1364 - Zales </option>
+        <option value="BSQ Mall x1366 - ATT">BSQ Mall x1366 - ATT </option>
       </select>
     </div>
     <div class="scorecards">
@@ -40,12 +47,18 @@
         <hr />
         <p id="revenue-total">0</p>
       </div>
+      <div id="Customer-scorecard" class="scorecard">
+        <h3>Customer</h3>
+        <hr />
+        <p id="customer-total">0</p>
+      </div>
     </div>
-    <canvas id="line-chart"></canvas>
-    <canvas id="bar-chart"></canvas>
-
+    <div class="chart">
+      <canvas id="line-chart"></canvas>
+      <canvas id="bar-chart"></canvas>
+    </div>
   </body>
-  
+
   <script src="line_chart.js"></script>
   <script src="bar_chart.js"></script>
 </html>
