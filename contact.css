@@ -1,0 +1,332 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  body{
+    font-family: "Poppins", sans-serif;
+    background-color: var(--blue);
+    --navcolor: rgba(216, 82, 232, 0.19);
+    --ungumuda: rgba(216, 82, 232, 1);
+    --ungutua: rgba(113, 47, 218, 1);
+    --pink: rgba(249, 33, 141, 1);
+    --blue: rgba(244, 254, 255, 1);
+    --grey: rgba(112, 123, 170, 1);
+  }
+
+  .nav-bar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    position: fixed;
+    background-color: var(--navcolor);
+    padding: 2px 30px;
+    z-index: 99;
+  }
+  
+  .logo img {
+    width: 60px;
+    margin-left: 10px;
+  }
+  
+  .logo {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .tx-1 {
+    color: var(--ungumuda);
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .tx-2 {
+    color: var(--ungumuda);
+    font-size: 11px;
+    font-weight: 300;
+  }
+  
+  .menu {
+    display: flex;
+  }
+  .menu li {
+    padding-left: 60px;
+  }
+  .menu li a {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 22px;
+    color: var(--ungumuda);
+    text-align: center;
+    transition: 0.15s ease-in-out;
+    position: relative;
+  }
+  
+  .menu li a::after {
+    content: "";
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    border-radius: 10px;
+    background-color: var(--ungumuda);
+    transition: 0.15s ease-in-out;
+  }
+  
+  .menu li a:hover:after {
+    width: 100%;
+    background-color: var(--blue);
+  }
+  .open-menu,
+  .close-menu {
+    position: absolute;
+    color: var(--ungumuda);
+    cursor: pointer;
+    font-size: 1.5rem;
+    display: none;
+  }
+  
+  .open-menu {
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+  }
+  
+  .close-menu {
+    top: 20px;
+    right: 20px;
+  }
+  
+  #check {
+    display: none;
+  }
+
+  .container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+
+.main {
+    padding: 40px 0;
+}
+
+.contact-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 100px;
+    grid-template-columns: 1fr 1fr;
+    
+}
+
+.vending-machine img {
+    width: 260px;
+    height: 370px;
+    margin-top: 80px;
+}
+
+.banner{
+    font-size: 35px;
+    font-weight: bold;
+    color:var(--ungutua);
+    text-align: center;
+    grid-column: span 1;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    
+} 
+
+.blurb {
+    font-size: 35px;
+    font-weight: bold;
+    color:var(--ungutua);
+    text-align: center;
+    grid-column: span 1;
+    margin-top: 50px;
+}
+
+.contact-form {
+    width: 50%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #F4FEFF;
+    color: #707BAA;
+    margin: auto; 
+}
+
+.contact-form input{
+    margin-bottom: 40px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px rgba(0, 0, 0, 0.4);
+    width: 70%;
+    box-sizing: border-box;
+    height: 40px;
+    color: #333; /* Warna teks input */
+}
+
+.contact-form textarea {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px rgba(0, 0, 0, 0.4);
+    width: 100%;
+    box-sizing: border-box;
+    font: optional;
+    color: #333; /* Warna teks textarea */
+}
+
+.contact-form input::placeholder, .contact-form textarea::placeholder {
+    color: #707BAA; /* Warna placeholder */
+}
+
+.contact-form textarea {
+    resize: vertical;
+    /* margin-top: 15px; */
+    margin-bottom: 30px;
+    height: 100px;
+}
+
+.button-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.contact-form button {
+    padding: 15px 35px;
+    background-color: #B19DFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.contact-form button:hover {
+    background-color: #a494d4;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 120px;
+    padding-top: 15px;
+    background-color: var(--navcolor);
+  }
+  
+  .contact {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-left: 25px;
+  }
+  .mail,
+  .phone {
+    flex-direction: row;
+    display: flex;
+    cursor: pointer;
+  }
+  
+  .bxl-gmail,
+  .bxs-phone-call {
+    font-size: 25px;
+    padding-right: 4px;
+  }
+  .contact p {
+    color: var(--ungumuda);
+    font-weight: 600;
+  }
+  
+  .mail p,
+  .phone p {
+    font-weight: 400;
+  }
+  .addres-box {
+    display: flex;
+    margin-right: 25px;
+    flex-direction: column;
+  }
+  
+  .row {
+    display: flex;
+    flex-direction: row;
+    margin-top: 9px;
+  }
+  .bx-map {
+    font-size: 40px;
+    margin-right: 5px;
+  }
+  .column .indo {
+    font-size: 12px;
+    font-weight: 400;
+  }
+  .column .loc {
+    font-weight: 400;
+  }
+  
+  .addres-box p {
+    color: var(--ungumuda);
+    font-weight: 600;
+  }
+  
+  .footer-bl {
+    display: flex;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    background-color: #000;
+  }
+
+  @media (max-width: 768px) {
+    .menu {
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 80%;
+      height: 100vh;
+      position: fixed;
+      top: 0;
+      right: -100%;
+      z-index: 100;
+      background-color: var(--grey);
+      transition: all 0.2s ease-in-out;
+    }
+    .menu li {
+      margin-top: 30px;
+    }
+    .menu li a {
+      padding: 5px;
+    }
+    .open-menu,
+    .close-menu {
+      display: block;
+    }
+    #check:checked ~ .menu {
+      right: 0;
+    }
+}
