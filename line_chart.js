@@ -21,7 +21,7 @@ function initializeChart(labels, datasets) {
       plugins: {
         title: {
           display: true,
-          text: "Transaction and Revenue Data",
+          text: "Revenue Per Month",
           font: {
             size: 24,
             color: "#333",
@@ -78,7 +78,7 @@ function initializeChart(labels, datasets) {
 }
 
 // Function untuk meng-update data sesuai filter
-async function updateChart() {
+ async function updateChart() {
   const dataFilter = document.getElementById("data-filter").value;
   const data = await fetchData();
   const selectedData = data[dataFilter];
@@ -91,7 +91,7 @@ async function updateChart() {
       borderColor: "rgba(75, 192, 192, 1)",
       borderWidth: 1,
       pointBackgroundColor: "rgba(75, 192, 192, 1)",
-      pointRadius: 3,
+      pointRadius:  2,
       pointHoverRadius: 5,
       pointHoverBackgroundColor: "rgba(75, 192, 192, 1)",
     },
@@ -102,9 +102,20 @@ async function updateChart() {
       borderColor: "rgba(255, 99, 132, 1)",
       borderWidth: 1,
       pointBackgroundColor: "rgba(255, 99, 132, 1)",
-      pointRadius: 3,
+      pointRadius: 2,
       pointHoverRadius: 5,
       pointHoverBackgroundColor: "rgba(255, 99, 132, 1)",
+    },
+    {
+      label: "Customer",
+      data: selectedData.Customer,
+      backgroundColor: "rgba(52, 67, 235, 0.2)",
+      borderColor: "rgba(52, 67, 235, 1)",
+      borderWidth: 1,
+      pointBackgroundColor: "rgba(52, 67, 235, 1)",
+      pointRadius: 2,
+      pointHoverRadius: 5,
+      pointHoverBackgroundColor: "rgba(52, 67, 235, 1)",
     },
   ];
 
@@ -120,6 +131,8 @@ async function updateChart() {
     selectedData.Transaction.reduce((a, b) => a + b, 0);
   document.getElementById("revenue-total").innerText =
     selectedData.Revenue.reduce((a, b) => a + b, 0);
+  document.getElementById("customer-total").innerText =
+    selectedData.Customer.reduce((a, b) => a + b, 0);
 }
 
 // Initialize the chart with the default dataset (Cumulative)
