@@ -19,22 +19,50 @@ function initializeChart(labels, datasets) {
     options: {
       responsive: true,
       plugins: {
-        title: {
-          display: true,
-          text: "Revenue Per Month",
-          font: {
-            size: 24,
-            color: "#333",
-          },
-        },
         legend: {
           display: true,
           position: "top",
           labels: {
             font: {
-              size: 16,
+              size: 9,
               color: "#666",
             },
+          },
+        },
+        tooltip: {
+          bodyFont: {
+            size: 12,
+          },
+          callbacks: {
+            label: function (context) {
+              let label = context.dataset.label || "";
+              if (label) {
+                label += ": ";
+              }
+              if (
+                context.dataset.label === "Revenue" &&
+                context.parsed.y !== null
+              ) {
+                label += `$${context.parsed.y.toLocaleString()}`;
+              } else if (context.parsed.y !== null) {
+                label += context.parsed.y.toLocaleString();
+              }
+              return label;
+            },
+          },
+        },
+        datalabels: {
+          align: "end",
+          anchor: "end",
+          font: {
+            size: 9,
+          },
+          formatter: (value, context) => {
+            if (context.dataset.label === "Revenue") {
+              return `$${value.toLocaleString()}`;
+            } else {
+              return value.toLocaleString();
+            }
           },
         },
       },
@@ -45,7 +73,7 @@ function initializeChart(labels, datasets) {
           },
           ticks: {
             font: {
-              size: 14,
+              size: 10,
               color: "#999",
             },
           },
@@ -57,12 +85,12 @@ function initializeChart(labels, datasets) {
           },
           ticks: {
             font: {
-              size: 14,
+              size: 8,
               color: "#999",
             },
-            callback: function(value) {
-              return '$' + value.toLocaleString();
-            }
+            callback: function (value) {
+              return value.toLocaleString();
+            },
           },
         },
       },
@@ -73,10 +101,11 @@ function initializeChart(labels, datasets) {
         point: {
           radius: 3,
           pointStyle: "circle",
-          borderWidth: 1,
+          borderWidth:1,
         },
       },
     },
+    plugins: [ChartDataLabels], //menampilkan data label
   });
 }
 
@@ -94,8 +123,8 @@ async function updateChart() {
       borderColor: "rgba(75, 192, 192, 1)",
       borderWidth: 1,
       pointBackgroundColor: "rgba(75, 192, 192, 1)",
-      pointRadius:  2,
-      pointHoverRadius: 5,
+      pointRadius: 3,
+      pointHoverRadius: 10 ,
       pointHoverBackgroundColor: "rgba(75, 192, 192, 1)",
     },
     {
@@ -105,20 +134,9 @@ async function updateChart() {
       borderColor: "rgba(255, 99, 132, 1)",
       borderWidth: 1,
       pointBackgroundColor: "rgba(255, 99, 132, 1)",
-      pointRadius: 2,
-      pointHoverRadius: 5,
+      pointRadius: 3,
+      pointHoverRadius: 10,
       pointHoverBackgroundColor: "rgba(255, 99, 132, 1)",
-    },
-    {
-      label: "Customer",
-      data: selectedData.Customer,
-      backgroundColor: "rgba(52, 67, 235, 0.2)",
-      borderColor: "rgba(52, 67, 235, 1)",
-      borderWidth: 1,
-      pointBackgroundColor: "rgba(52, 67, 235, 1)",
-      pointRadius: 2,
-      pointHoverRadius: 5,
-      pointHoverBackgroundColor: "rgba(52, 67, 235, 1)",
     },
   ];
 
@@ -133,7 +151,7 @@ async function updateChart() {
   document.getElementById("transaction-total").innerText =
     selectedData.Transaction.reduce((a, b) => a + b, 0).toLocaleString();
   document.getElementById("revenue-total").innerText =
-    '$' + selectedData.Revenue.reduce((a, b) => a + b, 0).toLocaleString();
+    "$" + selectedData.Revenue.reduce((a, b) => a + b, 0).toLocaleString();
   document.getElementById("customer-total").innerText =
     selectedData.Customer.reduce((a, b) => a + b, 0).toLocaleString();
 }

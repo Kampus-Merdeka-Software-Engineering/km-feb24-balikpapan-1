@@ -21,11 +21,6 @@ function initializeBarChart(labels, dataset) {
       plugins: {
         title: {
           display: true,
-          text: "Category",
-          font: {
-            size: 24,
-            color: "#333",
-          },
         },
         legend: {
           display: true,
