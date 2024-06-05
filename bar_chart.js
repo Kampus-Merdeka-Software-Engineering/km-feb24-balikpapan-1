@@ -21,13 +21,16 @@ function initializeBarChart(labels, dataset) {
       plugins: {
         title: {
           display: true,
+          font: {
+            size: 18, // Ukuran judul responsif
+          },
         },
         legend: {
           display: true,
           position: "top",
           labels: {
             font: {
-              size: 16,
+              size: 14, // Ukuran legenda responsif
             },
           },
         },
@@ -36,7 +39,7 @@ function initializeBarChart(labels, dataset) {
           align: 'end',
           color: '#555',
           font: {
-            size: 12,
+            size: 12, // Ukuran data label responsif
             weight: 'bold'
           }
         },
@@ -48,7 +51,7 @@ function initializeBarChart(labels, dataset) {
           },
           ticks: {
             font: {
-              size: 14,
+              size: 12, // Ukuran label sumbu x responsif
               color: "#999",
             },
           },
@@ -60,7 +63,7 @@ function initializeBarChart(labels, dataset) {
           },
           ticks: {
             font: {
-              size: 14,
+              size: 12, // Ukuran label sumbu y responsif
               color: "#999",
             },
           },
@@ -70,6 +73,7 @@ function initializeBarChart(labels, dataset) {
     plugins: [ChartDataLabels], // Tambahkan plugin ChartDataLabels
   });
 }
+
 
 // function untuk meng-update data sesuai filter
 async function updateBarChart() {
