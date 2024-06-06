@@ -191,36 +191,35 @@ body {
 }
 
 /* chart */
-.chart-section{
+.chart-section {
   width: 100%;
   height: auto;
   position: relative;
   display: flex;
-align-items: center;
-justify-content: center;
+  align-items: center;
+  justify-content: center;
   flex-direction: column;
   border-bottom: 2px solid var(--ungutua);
 }
 
-
-.tx-top{
+.tx-top {
   color: var(--ungutua);
   font-size: 2.7em;
   font-weight: 700;
   display: flex;
   text-align: center;
-  margin-bottom:90px ;
-  margin-top:60px ;
+  margin-bottom: 90px;
+  margin-top: 60px;
   width: 80%;
 }
-.filter select{
+.filter select {
   width: 250px;
   height: 50px;
   text-align: center;
   border-radius: 10px;
 }
 
-.scorecard-container{
+.scorecard-container {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -242,30 +241,27 @@ justify-content: center;
 }
 .scorecard h3 {
   margin: 0 0 10px;
-
 }
 
-.scorecard hr{
+.scorecard hr {
   margin-bottom: 20px;
-
 }
 
-.chart-container{
+.chart-container {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   width: 90%;
   height: auto;
-
 }
 
-.title-chart h4{
+.title-chart h4 {
   font-size: 1.5em;
   color: var(--ungutua);
 }
 
-.line-chart{
+.line-chart {
   width: 1080px;
   height: auto;
   display: flex;
@@ -276,7 +272,7 @@ justify-content: center;
   margin-bottom: 140px;
 }
 
-.chart-row{
+.chart-row {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -286,34 +282,33 @@ justify-content: center;
   margin-bottom: 90px;
 }
 
-.bar-chart{
-width: 700px;
-height: auto;
-background-color: #fff;
-margin-top: 20px;
+.bar-chart {
+  width: 700px;
+  height: auto;
+  background-color: #fff;
+  margin-top: 20px;
 }
-.bar-container,.pie-container{
-flex-direction: column;
-align-items: center;
-display: flex;
+.bar-container,
+.pie-container {
+  flex-direction: column;
+  align-items: center;
+  display: flex;
 }
 
-.pie-chart{
+.pie-chart {
   width: 400px;
   height: auto;
-background-color: #fff;
-display: flex;
-align-items: center;
-justify-content: center;
-margin-top: 20px;
-
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
 }
 
-.table-container{
+.table-container {
   width: 900px;
   margin-bottom: 190px;
 }
-
 
 /* container 2 */
 .container-2 {
@@ -705,9 +700,9 @@ html {
     width: 100%;
     height: 80vh;
   }
-   .title-chart{
+  .title-chart {
     font-size: 0.8em;
-   }
+  }
   .img-logo img {
     width: 250px;
     margin-top: 40px;
@@ -821,25 +816,24 @@ html {
     width: 75%;
     padding-top: 60px;
   }
-  .tx-top{
+  .tx-top {
     font-size: 1.4em;
   }
 
-  .chart-row{
+  .chart-row {
     flex-direction: column;
     gap: 120px;
   }
 
-  .line-chart{
+  .line-chart {
     width: 760px;
   }
-  .pie-chart{
+  .pie-chart {
     width: 450px;
   }
-  .table-container{
+  .table-container {
     width: 760px;
   }
-
 }
 
 @media (max-width: 768px) {
@@ -877,7 +871,7 @@ html {
     width: 200px;
     height: 240px;
   }
-  
+
   .text-box {
     margin-left: 40%;
     gap: 30px;
@@ -891,7 +885,7 @@ html {
     font-size: 1em;
   }
 
-  .tx-top{
+  .tx-top {
     font-size: 1.4em;
   }
   .circle-grey-1 {
@@ -1025,67 +1019,67 @@ html {
   .container-2 {
     height: 55vh;
   }
-  .line-chart{
+  .line-chart {
     width: 500px;
   }
-  .bar-chart{
+  .bar-chart {
     width: 500px;
   }
-  .pie-chart{
+  .pie-chart {
     width: 350px;
   }
-  .title-chart{
+  .title-chart {
     font-size: 0.7em;
   }
 
-  .tx-top{
+  .tx-top {
     font-size: 1em;
   }
 
-  .chart-row{
-    gap:  110px;
+  .chart-row {
+    gap: 110px;
   }
 
-  .scorecard-container{
+  .scorecard-container {
     margin-bottom: 100px;
   }
 
-  .scorecard{
+  .scorecard {
     width: 110px;
     font-size: 10px;
   }
 
-  .table-container{
+  .table-container {
     width: 500px;
   }
-  .td{
+  .td {
     font-size: 8px;
   }
-  .th{
+  .th {
     font-size: 8px;
   }
-  .srt{
+  .srt {
     font-size: 2px;
-   
   }
-  .pgButton{
+  .pgButton {
     font-size: 5px;
   }
-  .pgSum{
+  .pgSum {
     font-size: 8px;
   }
-  .footer{
+  .footer {
     height: auto;
   }
-  
-  .contact p,.addres-box p{
+
+  .contact p,
+  .addres-box p {
     font-size: 12px;
   }
-  .bx{
+  .bx {
     font-size: 14px;
   }
-  
-  .footer-bl{
+
+  .footer-bl {
     font-size: 15px;
   }
 }
@@ -1117,16 +1111,15 @@ html {
     right: 0;
   }
 
-  
-  .logo img{
+  .logo img {
     width: 35px;
     margin-left: -15px;
   }
-   
-  .text .tx-1{
+
+  .text .tx-1 {
     font-size: 9px;
   }
-  .text .tx-2{
+  .text .tx-2 {
     font-size: 7px;
   }
   .container-3 {
@@ -1134,7 +1127,6 @@ html {
   }
 
   .img-1 img {
-    
     width: 110px;
     height: 140px;
     position: relative;
@@ -1156,11 +1148,11 @@ html {
   .p-2 {
     font-size: 0.8em;
   }
-  .title-chart{
+  .title-chart {
     font-size: 0.6em;
-   }
+  }
 
-   .circle-grey-1 {
+  .circle-grey-1 {
     top: 130px;
     width: 60px;
     height: 60px;
@@ -1177,8 +1169,7 @@ html {
     display: flex;
   }
 
-
-  .text-center .blank{
+  .text-center .blank {
     margin-top: -50px;
   }
 
@@ -1220,7 +1211,6 @@ html {
     height: 270px;
   }
 
-
   .card-img-1 {
     width: 260px;
     height: 100%;
@@ -1248,7 +1238,7 @@ html {
   .card-body .bg:nth-child(1) {
     transform: rotate(-7deg);
   }
-  
+
   .card-container {
     display: flex;
     justify-content: space-around;
@@ -1279,7 +1269,6 @@ html {
     bottom: 320px;
   }
 
-
   .container {
     height: 55vh;
   }
@@ -1291,11 +1280,65 @@ html {
   }
   .container-2 {
     height: 45vh;
-}
-.footer{
-  height: auto;
-}
+  }
+  .footer {
+    height: auto;
+  }
 
+  .contact p,
+  .addres-box p {
+    font-size: 10px;
+  }
+  .bx {
+    font-size: 12px;
+  }
+
+  .footer-bl {
+    font-size: 13px;
+  }
+
+  .filter select {
+    width: 150px;
+    height: 40px;
+  }
+  .scorecard {
+    font-size: 8px;
+    width: 80px;
+    height: 70px;
+    padding: 9px;
+  }
+  .scorecard hr {
+    margin-bottom: 10px;
+  }
+
+  .line-chart {
+    width: 370px;
+  }
+  .bar-chart {
+    width: 370px;
+    height: 200px;
+  }
+
+  .pie-chart {
+    width: 300px;
+  }
+
+  .table-container {
+    width: 370px;
+  }
+
+  .th,
+  .td {
+    font-size: 7px;
+  }
+
+  .pgSum {
+    font-size: 5px;
+  }
+  .pgButton {
+    font-size: 4px;
+  }
+}
 @media (max-width: 400px) {
   .circle-grey-1 {
     top: 90px;
@@ -1341,6 +1384,7 @@ html {
     left: 110px;
   }
 }
+
 @media (max-width: 350px) {
   .circle-grey-1 {
     top: 110px;
@@ -1355,57 +1399,4 @@ html {
     height: 40px;
     left: 100px;
   }
-}
-
-.contact p,.addres-box p{
-  font-size: 10px;
-}
-.bx{
-  font-size: 12px;
-}
-
-.footer-bl{
-  font-size: 13px;
-}
-
-.filter select{
-  width: 150px;
-  height: 40px;
-}
-.scorecard{
-  font-size: 8px;
-  width: 80px;
-  height: 70px;
-  padding: 9px;
-}
-.scorecard hr{
-  margin-bottom: 10px;
-}
-
-.line-chart{
-  width: 370px;
-}
-.bar-chart{
-  width: 370px;
-  height: 200px;
-}
-
-.pie-chart{
-  width: 300px;
-}
-
-.table-container{
-  width: 370px;
-}
-
-.th,.td{
-  font-size: 7px;
-}
-
-.pgSum{
-  font-size: 5px;
-}
-.pgButton{
-  font-size: 4px;
-}
 }
