@@ -1,4 +1,5 @@
 let currentChart;
+let currentChart2;
 
 // Function untuk fetch data
 async function fetchData() {
@@ -152,36 +153,12 @@ function initializeChart(labels, revenueData, transactionData) {
           bodyFont: {
             size: 12,
           },
-          callbacks: {
-            label: function (context) {
-              let label = context.dataset.label || "";
-              if (label) {
-                label += ": ";
-              }
-              if (
-                context.dataset.label === "Revenue" &&
-                context.parsed.y !== null
-              ) {
-                label += `$${context.parsed.y.toLocaleString()}`;
-              } else if (context.parsed.y !== null) {
-                label += context.parsed.y.toLocaleString();
-              }
-              return label;
-            },
-          },
         },
         datalabels: {
           align: "end",
           anchor: "end",
           font: {
             size: 9,
-          },
-          formatter: (value, context) => {
-            if (context.dataset.label === "Revenue") {
-              return `$${value.toLocaleString()}`;
-            } else {
-              return value.toLocaleString();
-            }
           },
         },
       },
@@ -206,9 +183,6 @@ function initializeChart(labels, revenueData, transactionData) {
             font: {
               size: 8,
               color: "#999",
-            },
-            callback: function (value) {
-              return value.toLocaleString();
             },
           },
         },
