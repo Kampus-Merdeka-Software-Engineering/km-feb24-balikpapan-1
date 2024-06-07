@@ -7,13 +7,13 @@ fetch('table.json')
             columns: [
                 "Product",
                 "Machine",
-                {
-                    name: "Price",
-                    formatter: (cell) => `$${cell}` //mengubah satuan kolom price 
-                },
-                "Location"
+                "Location",
+                    {
+                        name: "Price",
+                        formatter: (cell) => `$${cell}` //mengubah format kolom price 
+                    }
             ],
-            data: data.map(item => [item.Product, item.Machine, item.Price, item.Location]),
+            data: data.map(item => [item.Product, item.Machine, item.Location,item.Price]),
 
             search: {
                 enabled: true,

@@ -1,5 +1,4 @@
 let currentChart;
-let currentChart2;
 
 // Function untuk fetch data
 async function fetchData() {
@@ -8,10 +7,9 @@ async function fetchData() {
 }
 
 function initializeChart(labels, revenueData, transactionData) {
-  const revenueCtx = document.getElementById("revenue-chart").getContext("2d");
-  const transactionCtx = document.getElementById("transaction-chart").getContext("2d");
+  const ctx = document.getElementById("line-chart").getContext("2d");
 
-  currentChart = new Chart(revenueCtx, {
+  currentChart = new Chart(ctx, {
     type: "line",
     data: {
       labels: labels,
@@ -23,8 +21,18 @@ function initializeChart(labels, revenueData, transactionData) {
         borderWidth: 1,
         pointBackgroundColor: "rgba(75, 192, 192, 1)",
         pointRadius: 3,
-        pointHoverRadius: 10 ,
+        pointHoverRadius: 10,
         pointHoverBackgroundColor: "rgba(75, 192, 192, 1)",
+      }, {
+        label: "Transaction",
+        data: transactionData,
+        backgroundColor: "rgba(255, 99, 132, 0.2)",
+        borderColor: "rgba(255, 99, 132, 1)",
+        borderWidth: 1,
+        pointBackgroundColor: "rgba(255, 99, 132, 1)",
+        pointRadius: 3,
+        pointHoverRadius: 10,
+        pointHoverBackgroundColor: "rgba(255, 99, 132, 1)",
       }],
     },
     options: {
@@ -50,10 +58,7 @@ function initializeChart(labels, revenueData, transactionData) {
               if (label) {
                 label += ": ";
               }
-              if (
-                context.dataset.label === "Revenue" &&
-                context.parsed.y !== null
-              ) {
+              if (context.dataset.label === "Revenue" && context.parsed.y !== null) {
                 label += `$${context.parsed.y.toLocaleString()}`;
               } else if (context.parsed.y !== null) {
                 label += context.parsed.y.toLocaleString();
@@ -112,89 +117,7 @@ function initializeChart(labels, revenueData, transactionData) {
         point: {
           radius: 3,
           pointStyle: "circle",
-          borderWidth:1,
-        },
-      },
-    },
-    plugins: [ChartDataLabels], //menampilkan data label
-  });
-
-
-  currentChart2 = new Chart(transactionCtx, {
-    type: "line",
-    data: {
-      labels: labels,
-      datasets: [{
-        label: "Transaction",
-        data: transactionData,
-        backgroundColor: "rgba(255, 99, 132, 0.2)",
-        borderColor: "rgba(255, 99, 132, 1)",
-        borderWidth: 1,
-        pointBackgroundColor: "rgba(255, 99, 132, 1)",
-        pointRadius: 3,
-        pointHoverRadius: 10,
-        pointHoverBackgroundColor: "rgba(255, 99, 132, 1)",
-      }],
-    },
-    options: {
-      responsive: true,
-      plugins: {
-        legend: {
-          display: true,
-          position: "top",
-          labels: {
-            font: {
-              size: 9,
-              color: "#666",
-            },
-          },
-        },
-        tooltip: {
-          bodyFont: {
-            size: 12,
-          },
-        },
-        datalabels: {
-          align: "end",
-          anchor: "end",
-          font: {
-            size: 9,
-          },
-        },
-      },
-      scales: {
-        x: {
-          grid: {
-            display: false,
-          },
-          ticks: {
-            font: {
-              size: 10,
-              color: "#999",
-            },
-          },
-        },
-        y: {
-          beginAtZero: true,
-          grid: {
-            display: false,
-          },
-          ticks: {
-            font: {
-              size: 8,
-              color: "#999",
-            },
-          },
-        },
-      },
-      elements: {
-        line: {
-          tension: 0.5,
-        },
-        point: {
-          radius: 3,
-          pointStyle: "circle",
-          borderWidth:1,
+          borderWidth: 1,
         },
       },
     },
@@ -213,9 +136,8 @@ async function updateChart() {
   const transactionData = selectedData.Transaction;
 
   // untuk menghapus chart sebelumnya
-  if (currentChart && currentChart2) {
+  if (currentChart) {
     currentChart.destroy();
-    currentChart2.destroy();
   }
 
   initializeChart(labels, revenueData, transactionData);

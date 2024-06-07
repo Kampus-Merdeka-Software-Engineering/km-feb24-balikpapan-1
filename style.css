@@ -602,90 +602,157 @@ body {
   transition-delay: 2.5s;
 }
 
-.text-bottom {
+
+/* footer */
+footer {
   display: flex;
-  position: absolute;
-  flex-direction: column;
-  bottom: 60px;
-  width: 80%;
-  text-align: center;
-  gap: 50px;
+  justify-content: flex-end;
+  align-items: flex-end;
+  min-height: auto;
 }
 
-.footer {
+.ft-container {
+  position: relative;
+  width: 100%;
+  background: rgba(242, 218, 245, 1);
+  min-height: 100px;
+  padding: 20px 50px;
   display: flex;
   justify-content: space-between;
-  width: 100%;
-  height: 120px;
-  padding-top: 15px;
-  background-color: var(--navcolor);
+  flex-direction: column;
 }
 
-.contact {
+.ft-cont {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  justify-content: space-between;
+}
+
+.ft-left {
+  display: flex;
+  width: 50%;
+  position: relative;
+  border-right: 2px solid black;
+  align-items: center;
+  justify-content: center;
+}
+
+.ft-tx-box{
+  width: 70%;
+  gap: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+.ft-tx-1 {
+  font-size: 18px;
+  color: var(--grey);
+  font-weight: 600;
+}
+
+.ft-tx-2 {
+  font-size: 15px;
+  color: var(--grey);
+  font-weight: 400;
+}
+
+.ft-right {
+  display: flex;
+  width: 50%;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.ft-right p {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.ft-right .tx-mail,
+.ft-right .num-phone,
+.ft-right .tx-loc,
+.ft-right .add {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.mail{
+  margin-bottom: 10px;
+}
+
+.loc-wrap {
   display: flex;
   flex-direction: column;
-  gap: 8px;
-  margin-left: 25px;
+  margin: 30px 0 30px 0;
 }
+
 .mail,
-.phone {
-  flex-direction: row;
+.phone,
+.loc {
   display: flex;
+  flex-direction: row;
+  align-items: center;
   cursor: pointer;
 }
 
-.bxl-gmail,
-.bxs-phone-call {
-  font-size: 25px;
-  padding-right: 4px;
-}
-.contact p {
-  color: var(--ungumuda);
-  font-weight: 600;
-}
-
-.mail p,
-.phone p {
-  font-weight: 400;
-}
-.addres-box {
+.tx-col {
   display: flex;
-  margin-right: 25px;
   flex-direction: column;
 }
 
-.row {
+.bx{
+  font-size: 25px;
+  margin-right: 10px;
   display: flex;
-  flex-direction: row;
-  margin-top: 9px;
 }
-.bx-map {
-  font-size: 40px;
-  margin-right: 5px;
-}
-.column .indo {
-  font-size: 12px;
-  font-weight: 400;
-}
-.column .loc {
-  font-weight: 400;
-}
-
-.addres-box p {
-  color: var(--ungumuda);
-  font-weight: 600;
-}
-
-.footer-bl {
-  display: flex;
+.ft-bot {
   width: 100%;
-  height: 50px;
-  text-align: center;
-  align-items: center;
-  justify-content: center;
-  color: #fff;
+  height: 35px;
   background-color: #000;
+  color: #fff;
+  text-align: center;
+  font-size: 15px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-radius: 10px;
 }
+
+
+.ft-container .wave {
+  position: absolute;
+  top: -100px;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background: var(--blue) url(./assets/wave.png);
+  background-size: 1000px 100px;
+}
+
+.ft-container .wave#wave1 {
+  z-index: 1000;
+  opacity: 1;
+  bottom: 0;
+  animation: animatewave 3s linear infinite;
+}
+
+@keyframes animatewave {
+  0% {
+    background-position-x: 0px;
+  }
+
+  100% {
+    background-position-x: 1000px;
+  }
+}
+
+
 html {
   scroll-behavior: smooth !important;
 }
@@ -773,31 +840,31 @@ html {
   }
 
   .card {
-    width: 200px;
-    height: 350px;
+    width: 180px;
+    height: 320px;
     display: flex;
   }
 
   .card-img-1 {
-    width: 160px;
-    height: 330px;
+    width: 140px;
+    height: 310px;
     margin-right: 30px;
     margin-top: 40px;
   }
   .card-img-2 {
-    width: 190px;
-    height: 280px;
+    width: 170px;
+    height: 260px;
     margin-top: 20px;
     margin-left: -30px;
   }
   .card-img-3 {
-    width: 190px;
-    height: 340px;
+    width: 170px;
+    height: 320px;
     margin-left: -35px;
   }
   .card-img-4 {
-    width: 140px;
-    height: 290px;
+    width: 120px;
+    height: 270px;
     margin-top: 0;
     margin-left: 0;
   }
@@ -810,6 +877,10 @@ html {
   .card-row-1,
   .card-row-2 {
     display: flex;
+  }
+
+  .container-3{
+    height: 1120px;
   }
 
   .text-center-2 {
@@ -826,14 +897,38 @@ html {
   }
 
   .line-chart {
-    width: 760px;
+    width: 730px;
   }
   .pie-chart {
-    width: 450px;
+    width: 420px;
   }
   .table-container {
-    width: 760px;
+    width: 730px;
   }
+
+  .ft-right .tx-mail,
+.ft-right .num-phone,
+.ft-right .tx-loc,
+.ft-right .add {
+  font-size: 13px;
+}
+
+.ft-right p {
+  font-size: 17px;
+
+}
+
+.ft-tx-1 {
+  font-size: 14px;
+}
+
+.ft-tx-2 {
+  font-size: 12px;
+}
+
+.ft-tx-box{
+  width: 90%;
+}
 }
 
 @media (max-width: 768px) {
@@ -990,18 +1085,7 @@ html {
   .text-center-2 {
     top: 10px;
   }
-  .text-bottom {
-    position: absolute;
-    bottom: 50px;
-  }
-  .text-bottom .tc-bold {
-    font-size: 1.4em;
-  }
-
-  .text-bottom .tc-semi-bold {
-    font-size: 1.2em;
-  }
-
+  
   .circle-grey-3 {
     width: 50px;
     height: 100px;
@@ -1020,10 +1104,10 @@ html {
     height: 55vh;
   }
   .line-chart {
-    width: 500px;
+    width: 480px;
   }
   .bar-chart {
-    width: 500px;
+    width: 480px;
   }
   .pie-chart {
     width: 350px;
@@ -1050,7 +1134,7 @@ html {
   }
 
   .table-container {
-    width: 500px;
+    width: 480px;
   }
   .td {
     font-size: 8px;
@@ -1058,29 +1142,42 @@ html {
   .th {
     font-size: 8px;
   }
-  .srt {
-    font-size: 2px;
-  }
   .pgButton {
     font-size: 5px;
   }
   .pgSum {
     font-size: 8px;
   }
-  .footer {
-    height: auto;
+  .ft-right .tx-mail,
+  .ft-right .num-phone,
+  .ft-right .tx-loc,
+  .ft-right .add {
+    font-size: 11px;
   }
-
-  .contact p,
-  .addres-box p {
+  
+  .ft-right p {
+    font-size: 15px;
+  
+  }
+  
+  .ft-tx-1 {
     font-size: 12px;
   }
-  .bx {
-    font-size: 14px;
+  
+  .ft-tx-2 {
+    font-size: 10px;
+  }
+  
+  .ft-tx-box{
+    width: 90%;
+  }
+  .bx{
+    font-size: 18px;
   }
 
-  .footer-bl {
-    font-size: 15px;
+  .ft-bot{
+    height: 20px;
+    font-size: 10px;
   }
 }
 @media (max-width: 500px) {
@@ -1281,21 +1378,6 @@ html {
   .container-2 {
     height: 45vh;
   }
-  .footer {
-    height: auto;
-  }
-
-  .contact p,
-  .addres-box p {
-    font-size: 10px;
-  }
-  .bx {
-    font-size: 12px;
-  }
-
-  .footer-bl {
-    font-size: 13px;
-  }
 
   .filter select {
     width: 150px;
@@ -1312,10 +1394,10 @@ html {
   }
 
   .line-chart {
-    width: 370px;
+    width: 350px;
   }
   .bar-chart {
-    width: 370px;
+    width: 350px;
     height: 200px;
   }
 
@@ -1324,7 +1406,7 @@ html {
   }
 
   .table-container {
-    width: 370px;
+    width: 350px;
   }
 
   .th,
@@ -1337,6 +1419,38 @@ html {
   }
   .pgButton {
     font-size: 4px;
+  }
+
+  .ft-right .tx-mail,
+  .ft-right .num-phone,
+  .ft-right .tx-loc,
+  .ft-right .add {
+    font-size: 8px;
+  }
+  
+  .ft-right p {
+    font-size: 13px;
+  
+  }
+  
+  .ft-tx-1 {
+    font-size: 9px;
+  }
+  
+  .ft-tx-2 {
+    font-size: 7px;
+  }
+  
+  .ft-tx-box{
+    width: 90%;
+  }
+  .bx{
+    font-size: 12px;
+  }
+
+  .ft-bot{
+    height: 17px;
+    font-size: 9px;
   }
 }
 @media (max-width: 400px) {
@@ -1369,7 +1483,7 @@ html {
     left: 120px;
   }
 }
-@media (max-width: 360px) {
+@media (max-width: 365px) {
   .circle-grey-1 {
     top: 70px;
     width: 50px;
@@ -1383,6 +1497,63 @@ html {
     height: 40px;
     left: 110px;
   }
+  .line-chart {
+    width: 330px;
+  }
+  .bar-chart {
+    width: 330px;
+    height: 200px;
+  }
+
+  .pie-chart {
+    width: 290px;
+  }
+
+  .table-container {
+    width: 310px;
+  }
+  .th,
+  .td {
+    font-size: 5px;
+  }
+
+
+  .ft-right .tx-mail,
+  .ft-right .num-phone,
+  .ft-right .tx-loc,
+  .ft-right .add {
+    font-size: 6px;
+  }
+  
+  .ft-right p {
+    font-size: 11px;
+  
+  }
+  
+  .ft-tx-1 {
+    font-size: 7px;
+  }
+  
+  .ft-tx-2 {
+    font-size: 5px;
+  }
+  
+  .ft-tx-box{
+    width: 90%;
+  }
+  .bx{
+    font-size: 10px;
+  }
+
+  .ft-bot{
+    height: 13px;
+    font-size: 7px;
+  }
+
+  .title-chart{
+    font-size: 8px;
+  }
+
 }
 
 @media (max-width: 350px) {

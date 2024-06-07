@@ -1,1616 +1,1617 @@
 [
     {
-        "Product": "Autumns Granola Bar - Cinnamon Almond",
-        "Price": "2",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Autumns Granola Bar - Cinnamon Almond",
+      "Price": 2,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Bai Antioxidant - Brasilia BB",
-        "Price": "2.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Bai Antioxidant - Brasilia BB",
+      "Price": 2.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Bai Antioxidant - Kula Watermelon",
-        "Price": "2.75",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Bai Antioxidant - Kula Watermelon",
+      "Price": 2.75,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Bai Antioxidant - Kupang strawberry kiwi",
-        "Price": "2.75",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Bai Antioxidant - Kupang strawberry kiwi",
+      "Price": 2.75,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Bai Antioxidant - Molokai Coconut",
-        "Price": "2.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Bai Antioxidant - Molokai Coconut",
+      "Price": 2.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Bai Antioxidant - Tanzania Lemon Super Tea",
-        "Price": "2.75",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Bai Antioxidant - Tanzania Lemon Super Tea",
+      "Price": 2.75,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Bai Antioxidant - Zambia Bingcherry",
-        "Price": "2.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Bai Antioxidant - Zambia Bingcherry",
+      "Price": 2.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Bai Antioxidant - Zambia Bingcherry",
-        "Price": "2.75",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Bai Antioxidant - Zambia Bingcherry",
+      "Price": 2.75,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Bai Lemonade - Burundi Blueberry",
-        "Price": "2.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Bai Lemonade - Burundi Blueberry",
+      "Price": 2.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Bai Lemonade - Burundi Blueberry",
-        "Price": "2.75",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Bai Lemonade - Burundi Blueberry",
+      "Price": 2.75,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Belvita Breakfast Biscuit Bites - Blueberry",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Belvita Breakfast Biscuit Bites - Blueberry",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Belvita Breakfast Cookies - Blueberry",
-        "Price": "1.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Belvita Breakfast Cookies - Blueberry",
+      "Price": 1.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Belvita Snack Bites - Cinnamon BS Go Paks",
-        "Price": "3",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Belvita Snack Bites - Cinnamon BS Go Paks",
+      "Price": 3,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Belvita Snack Packs - Blueberry",
-        "Price": "2",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Belvita Snack Packs - Blueberry",
+      "Price": 2,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Belvita Snack Packs - Blueberry",
-        "Price": "1.25",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Belvita Snack Packs - Blueberry",
+      "Price": 1.25,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Belvita Snack Packs - Blueberry",
-        "Price": "1.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Belvita Snack Packs - Blueberry",
+      "Price": 1.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Belvita Snack Packs - Chocolate",
-        "Price": "1.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Belvita Snack Packs - Chocolate",
+      "Price": 1.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Belvita Snack Packs - Cinnamon",
-        "Price": "1.25",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Belvita Snack Packs - Cinnamon",
+      "Price": 1.25,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "BodyArmor  LYTE - Blueberry Pomegranate",
-        "Price": "2.75",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "BodyArmor  LYTE - Blueberry Pomegranate",
+      "Price": 2.75,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "BodyArmor LYTE  - Berry Punch",
-        "Price": "2.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "BodyArmor LYTE  - Berry Punch",
+      "Price": 2.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "BodyArmor LYTE  - Peach Mango",
-        "Price": "2",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "BodyArmor LYTE  - Peach Mango",
+      "Price": 2,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "BodyArmor LYTE  - Peach Mango",
-        "Price": "2.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "BodyArmor LYTE  - Peach Mango",
+      "Price": 2.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "BodyArmor LYTE  - Peach Mango",
-        "Price": "2.75",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "BodyArmor LYTE  - Peach Mango",
+      "Price": 2.75,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "BodyArmor LYTE - Strawberry Lemonade",
-        "Price": "2.75",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "BodyArmor LYTE - Strawberry Lemonade",
+      "Price": 2.75,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Bubly - Blackberry",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Bubly - Blackberry",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Bubly - Cherry",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Bubly - Cherry",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Bubly - Grapefruit",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Bubly - Grapefruit",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Bubly - Lime",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Bubly - Lime",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Bubly - Mango",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Bubly - Mango",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Canada Dry - Ginger Ale",
-        "Price": "2",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Canada Dry - Ginger Ale",
+      "Price": 2,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Canada Dry - Ginger Ale",
-        "Price": "2.75",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Canada Dry - Ginger Ale",
+      "Price": 2.75,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Canada Dry - Ginger Ale & Lemonde",
-        "Price": "2",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Canada Dry - Ginger Ale & Lemonde",
+      "Price": 2,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Canada Dry - Ginger Ale & Lemonde",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Canada Dry - Ginger Ale & Lemonde",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Cheetos - Crunchy",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Cheetos - Crunchy",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Cheetos - Fleming Hot Crunchy",
-        "Price": "2",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Cheetos - Fleming Hot Crunchy",
+      "Price": 2,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Cheetos - Fleming Hot Crunchy",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Cheetos - Fleming Hot Crunchy",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Cheetos Baked - Crunchy Cheese",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Cheetos Baked - Crunchy Cheese",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Cheetos Baked - Flaming Hot",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Cheetos Baked - Flaming Hot",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Cheetos Cheddar Jalapeno",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Cheetos Cheddar Jalapeno",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Cheetos Flaming Hot Limon Crunchy",
-        "Price": "1",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Cheetos Flaming Hot Limon Crunchy",
+      "Price": 1,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Cheetos Flaming Hot Limon Crunchy",
-        "Price": "2",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Cheetos Flaming Hot Limon Crunchy",
+      "Price": 2,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Cheetos Flaming Hot Limon Crunchy",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Cheetos Flaming Hot Limon Crunchy",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Cheetos Puffs",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Cheetos Puffs",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "CheezIt - Cheddar Sour Cream and Onion",
-        "Price": "1.25",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "CheezIt - Cheddar Sour Cream and Onion",
+      "Price": 1.25,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "CheezIt - Cheddar Sour Cream and Onion",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "CheezIt - Cheddar Sour Cream and Onion",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "CheezIt - Double Cheese",
-        "Price": "1.25",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "CheezIt - Double Cheese",
+      "Price": 1.25,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "CheezIt - Double Cheese",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "CheezIt - Double Cheese",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "CheezIt - Go Paks",
-        "Price": "3",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "CheezIt - Go Paks",
+      "Price": 3,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "CheezIt - Go Paks",
-        "Price": "4",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "CheezIt - Go Paks",
+      "Price": 4,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "CheezIt - Original",
-        "Price": "1",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "CheezIt - Original",
+      "Price": 1,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "CheezIt - Original",
-        "Price": "4",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "CheezIt - Original",
+      "Price": 4,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "CheezIt - Original",
-        "Price": "1.25",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "CheezIt - Original",
+      "Price": 1.25,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "CheezIt - Original",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "CheezIt - Original",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "CheezIt - White Cheddar",
-        "Price": "1.25",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "CheezIt - White Cheddar",
+      "Price": 1.25,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "CheezIt - White Cheddar",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "CheezIt - White Cheddar",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Chesters Fries Flaming hot",
-        "Price": "2",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Chesters Fries Flaming hot",
+      "Price": 2,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Chesters Fries Flaming hot",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Chesters Fries Flaming hot",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Chum Fruit Bites - Mango/Strawberry",
-        "Price": "1.25",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Chum Fruit Bites - Mango/Strawberry",
+      "Price": 1.25,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Coca Cola - Regular",
-        "Price": "2",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Coca Cola - Regular",
+      "Price": 2,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Coca Cola - Regular",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Coca Cola - Regular",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Coca Cola - Zero Sugar",
-        "Price": "1",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Coca Cola - Zero Sugar",
+      "Price": 1,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Coca Cola - Zero Sugar",
-        "Price": "2",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Coca Cola - Zero Sugar",
+      "Price": 2,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Coca Cola - Zero Sugar",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Coca Cola - Zero Sugar",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Doritos Cool Ranch",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Doritos Cool Ranch",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Doritos Dinamita Chile Lemon",
-        "Price": "1",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Doritos Dinamita Chile Lemon",
+      "Price": 1,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Doritos Dinamita Chile Lemon",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Doritos Dinamita Chile Lemon",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Doritos Famin Hot Nacho",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Doritos Famin Hot Nacho",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Doritos Nacho Cheese",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Doritos Nacho Cheese",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Doritos Spicy Nacho",
-        "Price": "2",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Doritos Spicy Nacho",
+      "Price": 2,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Doritos Spicy Nacho",
-        "Price": "1.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Doritos Spicy Nacho",
+      "Price": 1.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Fritos - Original",
-        "Price": "1.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Fritos - Original",
+      "Price": 1.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Fritos - Original",
-        "Price": "2.25",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Fritos - Original",
+      "Price": 2.25,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Fritos - Original",
-        "Price": "2.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Fritos - Original",
+      "Price": 2.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Funyuns - Flaming Hot",
-        "Price": "2",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Funyuns - Flaming Hot",
+      "Price": 2,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Funyuns - Flaming Hot",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Funyuns - Flaming Hot",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Genius Keto Bar - Chocolate Dream",
-        "Price": "2",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Genius Keto Bar - Chocolate Dream",
+      "Price": 2,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Goldfish Baked - Cheddar",
-        "Price": "1.25",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Goldfish Baked - Cheddar",
+      "Price": 1.25,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Goldfish Baked - Cheddar",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Goldfish Baked - Cheddar",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Good Health Veggie Stix - Sea Salt",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Good Health Veggie Stix - Sea Salt",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Good Health Veggie Stix - Zesty Ranch",
-        "Price": "1.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Good Health Veggie Stix - Zesty Ranch",
+      "Price": 1.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Hersheys Milk Chocolate",
-        "Price": "2",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Hersheys Milk Chocolate",
+      "Price": 2,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Hersheys Milk Chocolate",
-        "Price": "2.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Hersheys Milk Chocolate",
+      "Price": 2.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Honest Tea - Berry Hibiscus",
-        "Price": "2.75",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Honest Tea - Berry Hibiscus",
+      "Price": 2.75,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Hungry Buddha - Chocolate Chip",
-        "Price": "2",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Hungry Buddha - Chocolate Chip",
+      "Price": 2,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Hungry Buddha - Coconut Cocoa",
-        "Price": "2",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Hungry Buddha - Coconut Cocoa",
+      "Price": 2,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Iberia Coconut Water",
-        "Price": "2",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Iberia Coconut Water",
+      "Price": 2,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Ice Breakers Ice Cubes - PepperMint",
-        "Price": "5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Ice Breakers Ice Cubes - PepperMint",
+      "Price": 5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Jack Links Beef Steak Original",
-        "Price": "2",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Jack Links Beef Steak Original",
+      "Price": 2,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Jack Links Beef Steak Original",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Jack Links Beef Steak Original",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Jacks Links Bar Beef Strip",
-        "Price": "2",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Jacks Links Bar Beef Strip",
+      "Price": 2,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Keep Healthy - Chocolate Coconut",
-        "Price": "2",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Keep Healthy - Chocolate Coconut",
+      "Price": 2,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Keep Healthy - Chocolate Fudge",
-        "Price": "2",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Keep Healthy - Chocolate Fudge",
+      "Price": 2,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Keep Healthy - Sea Salt Brownie",
-        "Price": "2",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Keep Healthy - Sea Salt Brownie",
+      "Price": 2,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Keto Bar - Chocolate Dream",
-        "Price": "2",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Keto Bar - Chocolate Dream",
+      "Price": 2,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Keto Bar - Creamy Peanut Butter Chocolate",
-        "Price": "2",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Keto Bar - Creamy Peanut Butter Chocolate",
+      "Price": 2,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Keto Bar - Creamy Peanut Butter Chocolate",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Keto Bar - Creamy Peanut Butter Chocolate",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Keto Krisp - Almond Butter",
-        "Price": "2",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Keto Krisp - Almond Butter",
+      "Price": 2,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Keto Krisp - Almond Butter",
-        "Price": "1.25",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Keto Krisp - Almond Butter",
+      "Price": 1.25,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Keto Krisp - Almond/Chocolate",
-        "Price": "2",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Keto Krisp - Almond/Chocolate",
+      "Price": 2,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Keto Krisp - Almond/Chocolate",
-        "Price": "2.25",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Keto Krisp - Almond/Chocolate",
+      "Price": 2.25,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "KIND Bar - Dark Choc Almond SeaSalt",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "KIND Bar - Dark Choc Almond SeaSalt",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Kinder - Bueno - Crispy Creamy Chocolate",
-        "Price": "2",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Kinder - Bueno - Crispy Creamy Chocolate",
+      "Price": 2,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "KitKat - Crisp Wafers",
-        "Price": "2",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "KitKat - Crisp Wafers",
+      "Price": 2,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "KitKat - Crisp Wafers",
-        "Price": "1.25",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "KitKat - Crisp Wafers",
+      "Price": 1.25,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "KitKat - Crisp Wafers",
-        "Price": "1.75",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "KitKat - Crisp Wafers",
+      "Price": 1.75,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "KitKat - Crisp Wafers",
-        "Price": "2.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "KitKat - Crisp Wafers",
+      "Price": 2.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Larabar - Peanut Butter chocolate Chip",
-        "Price": "2",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Larabar - Peanut Butter chocolate Chip",
+      "Price": 2,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Lays - Classic",
-        "Price": "1.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Lays - Classic",
+      "Price": 1.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Lays - Classic",
-        "Price": "2.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Lays - Classic",
+      "Price": 2.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Lays Baked - Barbecue",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Lays Baked - Barbecue",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Lays Baked - Original",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Lays Baked - Original",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Lenny & Larrys - Chocolate Chip",
-        "Price": "2",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Lenny & Larrys - Chocolate Chip",
+      "Price": 2,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Lenny & Larrys - Chocolate Chip",
-        "Price": "2.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Lenny & Larrys - Chocolate Chip",
+      "Price": 2.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Lenny & Larrys - SnickerDoodle",
-        "Price": "3",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Lenny & Larrys - SnickerDoodle",
+      "Price": 3,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Lenny & Larrys - SnickerDoodle",
-        "Price": "2.25",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Lenny & Larrys - SnickerDoodle",
+      "Price": 2.25,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Lenny & Larrys - SnickerDoodle",
-        "Price": "2.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Lenny & Larrys - SnickerDoodle",
+      "Price": 2.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Lindens - Chocolate Chippers",
-        "Price": "2",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Lindens - Chocolate Chippers",
+      "Price": 2,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Lindens - Chocolate Chippers",
-        "Price": "1.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Lindens - Chocolate Chippers",
+      "Price": 1.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Made in Nature - Mangoes Sweet & Tangy",
-        "Price": "2",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Made in Nature - Mangoes Sweet & Tangy",
+      "Price": 2,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Mini Chips Ahoy",
-        "Price": "4",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Mini Chips Ahoy",
+      "Price": 4,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Mini Chips Ahoy",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Mini Chips Ahoy",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Mini Chips Ahoy - Go Paks",
-        "Price": "4",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Mini Chips Ahoy - Go Paks",
+      "Price": 4,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Miss Vickie's Potato Chip - Jalapeno",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Miss Vickie's Potato Chip - Jalapeno",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Miss Vickie's Potato Chip - Lime & Cracked Pe",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Miss Vickie's Potato Chip - Lime & Cracked Pe",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Miss Vickie's Potato Chip - Sea Salt & Vinega",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Miss Vickie's Potato Chip - Sea Salt & Vinega",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Miss Vickie's Potato Chip - Sea Salt Original",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Miss Vickie's Potato Chip - Sea Salt Original",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Miss Vickie's Potato Chip - Smokehouse BBQ",
-        "Price": "1.25",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Miss Vickie's Potato Chip - Smokehouse BBQ",
+      "Price": 1.25,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Miss Vickie's Potato Chip - Smokehouse BBQ",
-        "Price": "1.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Miss Vickie's Potato Chip - Smokehouse BBQ",
+      "Price": 1.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Monster Energy  Zero Ultra",
-        "Price": "3",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Monster Energy  Zero Ultra",
+      "Price": 3,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Monster Energy Original",
-        "Price": "3",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Monster Energy Original",
+      "Price": 3,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Monster Energy Original",
-        "Price": "3.25",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Monster Energy Original",
+      "Price": 3.25,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Munchies Snack mix Flaming Hot",
-        "Price": "2",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Munchies Snack mix Flaming Hot",
+      "Price": 2,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Munchies Snack mix Flaming Hot",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Munchies Snack mix Flaming Hot",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Nature's Bakery Fig Bar - Blueberry",
-        "Price": "1.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Nature's Bakery Fig Bar - Blueberry",
+      "Price": 1.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Nature's Bakery Fig Bar - Raspberry",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Nature's Bakery Fig Bar - Raspberry",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Nature's Garden Trail Mix - Cranberry Healthy",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Nature's Garden Trail Mix - Cranberry Healthy",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Nature's Garden Trail Mix - Heart Healthy Mix",
-        "Price": "1",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Nature's Garden Trail Mix - Heart Healthy Mix",
+      "Price": 1,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Nature's Garden Trail Mix - Heart Healthy Mix",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Nature's Garden Trail Mix - Heart Healthy Mix",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Nature's Garden Trail Mix - Omega 3",
-        "Price": "1",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Nature's Garden Trail Mix - Omega 3",
+      "Price": 1,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Nature's Garden Trail Mix - Omega 3",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Nature's Garden Trail Mix - Omega 3",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Nature's Valley Chewy Granola Bar - Fruit & N",
-        "Price": "1.25",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Nature's Valley Chewy Granola Bar - Fruit & N",
+      "Price": 1.25,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Nature's Valley Crunchy Granola Bar - Oats &",
-        "Price": "1.25",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Nature's Valley Crunchy Granola Bar - Oats &",
+      "Price": 1.25,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Newtons Fig Bar",
-        "Price": "2",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Newtons Fig Bar",
+      "Price": 2,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Newtons Fig Bar",
-        "Price": "1.25",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Newtons Fig Bar",
+      "Price": 1.25,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Newtons Fig Bar",
-        "Price": "1.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Newtons Fig Bar",
+      "Price": 1.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "NuGo Dark Chocolate - Choc Chip",
-        "Price": "2",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "NuGo Dark Chocolate - Choc Chip",
+      "Price": 2,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "NuGo Dark Chocolate - Pretzel Sea Salt",
-        "Price": "2",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "NuGo Dark Chocolate - Pretzel Sea Salt",
+      "Price": 2,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Nutri Grain Apple Cinnamon",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Nutri Grain Apple Cinnamon",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Nutter Butter Bites",
-        "Price": "1",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Nutter Butter Bites",
+      "Price": 1,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Nutter Butter Bites",
-        "Price": "1.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Nutter Butter Bites",
+      "Price": 1.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Oberto Specialty Meats - Original",
-        "Price": "2",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Oberto Specialty Meats - Original",
+      "Price": 2,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Oberto Specialty Meats - Original",
-        "Price": "3",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Oberto Specialty Meats - Original",
+      "Price": 3,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Orchard Bar - Variety",
-        "Price": "2",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Orchard Bar - Variety",
+      "Price": 2,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Oreo Mini",
-        "Price": "2",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Oreo Mini",
+      "Price": 2,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Oreo Mini",
-        "Price": "4",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Oreo Mini",
+      "Price": 4,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Oreo Mini",
-        "Price": "1.25",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Oreo Mini",
+      "Price": 1.25,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Oreo Mini",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Oreo Mini",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Oreo Mini - Go Paks",
-        "Price": "3",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Oreo Mini - Go Paks",
+      "Price": 3,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Oreo Mini - Go Paks",
-        "Price": "4",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Oreo Mini - Go Paks",
+      "Price": 4,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Oreo Single Server 6 ct",
-        "Price": "2",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Oreo Single Server 6 ct",
+      "Price": 2,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Poland Springs Water",
-        "Price": "2",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Poland Springs Water",
+      "Price": 2,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Poland Springs Water",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Poland Springs Water",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Pop Corners - Kettle Corn",
-        "Price": "1.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Pop Corners - Kettle Corn",
+      "Price": 1.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Pop Corners - Sea Salt",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Pop Corners - Sea Salt",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Pop Corners - Spicy Queso",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Pop Corners - Spicy Queso",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Pop Corners - Sweet & Salty Kettle",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Pop Corners - Sweet & Salty Kettle",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Pop Corners - White Cheddar",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Pop Corners - White Cheddar",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Popchips Potato - Barbeque",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Popchips Potato - Barbeque",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Popchips Potato - Sea Salt",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Popchips Potato - Sea Salt",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Popchips Potato - Sour Cream & Onion",
-        "Price": "1.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Popchips Potato - Sour Cream & Onion",
+      "Price": 1.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Pringles - Cheddar Cheese",
-        "Price": "3",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Pringles - Cheddar Cheese",
+      "Price": 3,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Pringles - Cheddar Cheese",
-        "Price": "4",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Pringles - Cheddar Cheese",
+      "Price": 4,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Pringles - Cheddar Cheese",
-        "Price": "4.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Pringles - Cheddar Cheese",
+      "Price": 4.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Pringles - Original",
-        "Price": "3",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Pringles - Original",
+      "Price": 3,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Pringles - Original",
-        "Price": "4",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Pringles - Original",
+      "Price": 4,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Pringles - Sour Cream & Onion",
-        "Price": "3",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Pringles - Sour Cream & Onion",
+      "Price": 3,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Pringles - Sour Cream & Onion",
-        "Price": "4",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Pringles - Sour Cream & Onion",
+      "Price": 4,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Pure Organic Fruit Bar - Raspberry Lemonade",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Pure Organic Fruit Bar - Raspberry Lemonade",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Pure Organic Fruit Bar - Raspberry Lemonade",
-        "Price": "2.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Pure Organic Fruit Bar - Raspberry Lemonade",
+      "Price": 2.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Pure Organic Fruit Bar - Strawberry Banana",
-        "Price": "1",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Pure Organic Fruit Bar - Strawberry Banana",
+      "Price": 1,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Pure Organic Fruit Bar - Strawberry Banana",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Pure Organic Fruit Bar - Strawberry Banana",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Pure Organic Pineapple Passionfruit",
-        "Price": "1",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Pure Organic Pineapple Passionfruit",
+      "Price": 1,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Quaker Apple Cinnamon Rice Crisps",
-        "Price": "1",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Quaker Apple Cinnamon Rice Crisps",
+      "Price": 1,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Quaker ButterMilk Ranch Rice Crisps",
-        "Price": "1",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Quaker ButterMilk Ranch Rice Crisps",
+      "Price": 1,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Quaker ButterMilk Ranch Rice Crisps",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Quaker ButterMilk Ranch Rice Crisps",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Quaker Caramel Rice Crisps",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Quaker Caramel Rice Crisps",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Quaker Cheddar Rice Crisps",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Quaker Cheddar Rice Crisps",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Red Bull - Energy Drink - Sugar Free",
-        "Price": "3.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Red Bull - Energy Drink - Sugar Free",
+      "Price": 3.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Red Bull - Original",
-        "Price": "3",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Red Bull - Original",
+      "Price": 3,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Red Bull - Original",
-        "Price": "3.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Red Bull - Original",
+      "Price": 3.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Remedy Kombucha - Ginger Lemon",
-        "Price": "3",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Remedy Kombucha - Ginger Lemon",
+      "Price": 3,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Ritz Bits Cheese",
-        "Price": "1.25",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Ritz Bits Cheese",
+      "Price": 1.25,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Ritz Bits Cheese",
-        "Price": "1.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Ritz Bits Cheese",
+      "Price": 1.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Ritz Bits Peanut Butter",
-        "Price": "2",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Ritz Bits Peanut Butter",
+      "Price": 2,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Ritz Bits Peanut Butter",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Ritz Bits Peanut Butter",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Robert Irvine's - Fit Crunch -  Chocolate Pea",
-        "Price": "2",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Robert Irvine's - Fit Crunch -  Chocolate Pea",
+      "Price": 2,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Ruffles Baked  - Cheddar & Sour Cream",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Ruffles Baked  - Cheddar & Sour Cream",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "RXBAR - Protein Bar - Chocolate Sea Salt",
-        "Price": "2",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "RXBAR - Protein Bar - Chocolate Sea Salt",
+      "Price": 2,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "RXBAR - Protein Bar - Peanut Butter",
-        "Price": "2",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "RXBAR - Protein Bar - Peanut Butter",
+      "Price": 2,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "S. Pellegrino Essenza Mineral Water - Blood O",
-        "Price": "2.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "S. Pellegrino Essenza Mineral Water - Blood O",
+      "Price": 2.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "S. Pellegrino Sparkling Mineral Water",
-        "Price": "2",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "S. Pellegrino Sparkling Mineral Water",
+      "Price": 2,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Seapoint Farms Dry Roasted Edamame - Wasabi",
-        "Price": "2",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Seapoint Farms Dry Roasted Edamame - Wasabi",
+      "Price": 2,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Seapoint Farms Dry Roasted Edamame - Wasabi",
-        "Price": "2.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Seapoint Farms Dry Roasted Edamame - Wasabi",
+      "Price": 2.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Simply Protein - Dark Chocolate Sea Salt",
-        "Price": "2",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Simply Protein - Dark Chocolate Sea Salt",
+      "Price": 2,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Simply Protein - Lemon Coconut",
-        "Price": "2",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Simply Protein - Lemon Coconut",
+      "Price": 2,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Simply Protein - Peanut Butter Chocolate",
-        "Price": "2",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Simply Protein - Peanut Butter Chocolate",
+      "Price": 2,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Skinny Pop Popcorn",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Skinny Pop Popcorn",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Skippy Peanut Butter - Go Paks",
-        "Price": "4.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Skippy Peanut Butter - Go Paks",
+      "Price": 4.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Snapple Diet Tea - Lemon",
-        "Price": "2.50",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Snapple Diet Tea - Lemon",
+      "Price": 2.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Snapple Diet Tea - Lemon",
-        "Price": "2.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Snapple Diet Tea - Lemon",
+      "Price": 2.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Snapple Diet Tea - Peach Tea",
-        "Price": "2.50",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Snapple Diet Tea - Peach Tea",
+      "Price": 2.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Snapple Diet Tea - Peach Tea",
-        "Price": "2.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Snapple Diet Tea - Peach Tea",
+      "Price": 2.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Snapple Diet Tea - Raspberry",
-        "Price": "2.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Snapple Diet Tea - Raspberry",
+      "Price": 2.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Snapple Lemonade - black berry",
-        "Price": "2.50",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Snapple Lemonade - black berry",
+      "Price": 2.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Snapple Lemonade - pineapple",
-        "Price": "2.50",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Snapple Lemonade - pineapple",
+      "Price": 2.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Snapple Lemonade - watermelon",
-        "Price": "2.50",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Snapple Lemonade - watermelon",
+      "Price": 2.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Snapple Tea - Lemon",
-        "Price": "2.50",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Snapple Tea - Lemon",
+      "Price": 2.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Snapple Tea - Lemon",
-        "Price": "2.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Snapple Tea - Lemon",
+      "Price": 2.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Snapple Tea - Peach",
-        "Price": "2.50",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Snapple Tea - Peach",
+      "Price": 2.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Snapple Tea - Raspberry",
-        "Price": "2.50",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Snapple Tea - Raspberry",
+      "Price": 2.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Snapple Tea - Raspberry",
-        "Price": "2.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Snapple Tea - Raspberry",
+      "Price": 2.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Snapple Tea - Raspberry",
-        "Price": "2.75",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Snapple Tea - Raspberry",
+      "Price": 2.75,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Snyder's of Hanover Pretzel - Cheddar Cheese",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Snyder's of Hanover Pretzel - Cheddar Cheese",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Snyder's of Hanover Pretzel - Cheddar Cheese",
-        "Price": "2.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Snyder's of Hanover Pretzel - Cheddar Cheese",
+      "Price": 2.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Snyder's of Hanover Pretzel Pieces - Cheddar",
-        "Price": "2",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Snyder's of Hanover Pretzel Pieces - Cheddar",
+      "Price": 2,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Snyder's of Hanover Pretzel Pieces - Cheddar",
-        "Price": "2.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Snyder's of Hanover Pretzel Pieces - Cheddar",
+      "Price": 2.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Snyder's of Hanover Pretzel Pieces - Honey Mu",
-        "Price": "2",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Snyder's of Hanover Pretzel Pieces - Honey Mu",
+      "Price": 2,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Snyder's of Hanover Pretzel Pieces - Honey Mu",
-        "Price": "2.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Snyder's of Hanover Pretzel Pieces - Honey Mu",
+      "Price": 2.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Snyder's of Hanover Pretzel Pieces - Hot Buff",
-        "Price": "2",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Snyder's of Hanover Pretzel Pieces - Hot Buff",
+      "Price": 2,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Snyder's of Hanover Pretzel Pieces - Hot Buff",
-        "Price": "2.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Snyder's of Hanover Pretzel Pieces - Hot Buff",
+      "Price": 2.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Spindrift - Sparkling Water  Grapefruit",
-        "Price": "1.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Spindrift - Sparkling Water  Grapefruit",
+      "Price": 1.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Spindrift - Sparkling Water  Lime",
-        "Price": "1",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Spindrift - Sparkling Water  Lime",
+      "Price": 1,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Spindrift - Sparkling Water  Lime",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Spindrift - Sparkling Water  Lime",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Spindrift - Sparkling Water - Pineapple",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Spindrift - Sparkling Water - Pineapple",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Spindrift - Sparkling Water Raspberry Lime",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Spindrift - Sparkling Water Raspberry Lime",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Starbucks Doubleshot Energy - Coffee",
-        "Price": "4",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Starbucks Doubleshot Energy - Coffee",
+      "Price": 4,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Starbucks Doubleshot Energy - Coffee",
-        "Price": "3.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Starbucks Doubleshot Energy - Coffee",
+      "Price": 3.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Starbucks Doubleshot Energy - Mocha",
-        "Price": "1",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Starbucks Doubleshot Energy - Mocha",
+      "Price": 1,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Starbucks Doubleshot Energy - Mocha",
-        "Price": "4",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Starbucks Doubleshot Energy - Mocha",
+      "Price": 4,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Starbucks Doubleshot Energy - Mocha",
-        "Price": "3.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Starbucks Doubleshot Energy - Mocha",
+      "Price": 3.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Starbucks Refresher - Real Coconut Water",
-        "Price": "3",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Starbucks Refresher - Real Coconut Water",
+      "Price": 3,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Starbucks Refresher - Real Coconut Water",
-        "Price": "3.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Starbucks Refresher - Real Coconut Water",
+      "Price": 3.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Stretch Island Fruit Leathers Snacks - Variet",
-        "Price": "1",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Stretch Island Fruit Leathers Snacks - Variet",
+      "Price": 1,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "SunChips Multigrain - French Onion",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "SunChips Multigrain - French Onion",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "SunChips Multigrain - Harvest Cheddar",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "SunChips Multigrain - Harvest Cheddar",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "SunChips Multigrain - Original",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "SunChips Multigrain - Original",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "SunChips Multigrain - Salsa",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "SunChips Multigrain - Salsa",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Sunkist Soda - Orange",
-        "Price": "1",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Sunkist Soda - Orange",
+      "Price": 1,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Sunkist Soda - Orange",
-        "Price": "1.25",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Sunkist Soda - Orange",
+      "Price": 1.25,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Sunkist Soda - Orange",
-        "Price": "1.5",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Sunkist Soda - Orange",
+      "Price": 1.5,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Takis - Hot Chilli Pepper & Lime",
-        "Price": "1.25",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Takis - Hot Chilli Pepper & Lime",
+      "Price": 1.25,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Takis - Hot Chilli Pepper & Lime",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Takis - Hot Chilli Pepper & Lime",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Takis FUGEO mini",
-        "Price": "1.25",
-        "Machine": "GuttenPlans x1367",
-        "Location": "GuttenPlans"
+      "Product": "Takis FUGEO mini",
+      "Price": 1.25,
+      "Machine": "GuttenPlans x1367",
+      "Location": "GuttenPlans"
     },
     {
-        "Product": "Takis FUGEO mini",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Takis FUGEO mini",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Teddy Grahams - Go Paks",
-        "Price": "3",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Teddy Grahams - Go Paks",
+      "Price": 3,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "Teddy Grahams - Go Paks",
-        "Price": "4",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Teddy Grahams - Go Paks",
+      "Price": 4,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "TruBar - Cookie Dough",
-        "Price": "2.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "TruBar - Cookie Dough",
+      "Price": 2.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "TruBar - Daydreaming about Donuts",
-        "Price": "2.5",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "TruBar - Daydreaming about Donuts",
+      "Price": 2.5,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "V8 Vegetable Juice - Original",
-        "Price": "2",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "V8 Vegetable Juice - Original",
+      "Price": 2,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     },
     {
-        "Product": "V8 Vegetable Juice - Original",
-        "Price": "1.5",
-        "Machine": "BSQ Mall x1366 - ATT",
-        "Location": "Brunswick Sq Mall"
+      "Product": "V8 Vegetable Juice - Original",
+      "Price": 1.5,
+      "Machine": "BSQ Mall x1366 - ATT",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Vitamin Water - Ice Cool Blue Lavender",
-        "Price": "2.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Vitamin Water - Ice Cool Blue Lavender",
+      "Price": 2.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Vitamin Water - Ice Cool Blue Lavender",
-        "Price": "2.75",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Vitamin Water - Ice Cool Blue Lavender",
+      "Price": 2.75,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Vitamin Water - Squeezed Lemonade",
-        "Price": "2.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Vitamin Water - Squeezed Lemonade",
+      "Price": 2.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Vitamin Water - Squeezed Lemonade",
-        "Price": "2.75",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Vitamin Water - Squeezed Lemonade",
+      "Price": 2.75,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Vitamin Water - XXX Acai BB Pomegranate",
-        "Price": "2.75",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Vitamin Water - XXX Acai BB Pomegranate",
+      "Price": 2.75,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Wonderful Pistachios - Variety",
-        "Price": "2",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Wonderful Pistachios - Variety",
+      "Price": 2,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Zevia Organic Tea - Peach",
-        "Price": "2.5",
-        "Machine": "Earle Asphalt x1371",
-        "Location": "Earle Asphalt"
+      "Product": "Zevia Organic Tea - Peach",
+      "Price": 2.5,
+      "Machine": "Earle Asphalt x1371",
+      "Location": "Earle Asphalt"
     },
     {
-        "Product": "Zevia Zero Calorie Energy - Mango Ginger",
-        "Price": "2.5",
-        "Machine": "BSQ Mall x1364 - Zales",
-        "Location": "Brunswick Sq Mall"
+      "Product": "Zevia Zero Calorie Energy - Mango Ginger",
+      "Price": 2.5,
+      "Machine": "BSQ Mall x1364 - Zales",
+      "Location": "Brunswick Sq Mall"
     },
     {
-        "Product": "Zone Perfect - Chocolate Chip Cookie Dough",
-        "Price": "2",
-        "Machine": "EB Public Library x1380",
-        "Location": "EB Public Library"
+      "Product": "Zone Perfect - Chocolate Chip Cookie Dough",
+      "Price": 2,
+      "Machine": "EB Public Library x1380",
+      "Location": "EB Public Library"
     }
-]
+  ]
+  

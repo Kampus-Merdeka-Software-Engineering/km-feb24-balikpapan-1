@@ -10,7 +10,7 @@
     font-family: "Poppins", sans-serif;
     background-color: var(--blue);
     --navcolor: rgba(242, 218, 245, 1);
-    --ungumuda: rgba(216, 82, 232, 1);
+    --ungumuda: rgba(216, 82, 232, 1);                                                                    
     --ungutua: rgba(113, 47, 218, 1);
     --pink: rgba(249, 33, 141, 1);
     --blue: rgba(244, 254, 255, 1);
@@ -192,7 +192,6 @@
 
 .contact-form textarea {
     resize: vertical;
-    /* margin-top: 15px; */
     margin-bottom: 30px;
     height: 100px;
 }
@@ -218,80 +217,154 @@
     background-color: #a494d4;
 }
 
-.footer {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
-    height: 120px;
-    padding-top: 15px;
-    background-color: var(--navcolor);
+/* footer */
+footer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  min-height: auto;
+}
+
+.ft-container {
+  position: relative;
+  width: 100%;
+  background: rgba(242, 218, 245, 1);
+  min-height: 100px;
+  padding: 20px 50px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.ft-cont {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  justify-content: space-between;
+}
+
+.ft-left {
+  display: flex;
+  width: 50%;
+  position: relative;
+  border-right: 2px solid black;
+  align-items: center;
+  justify-content: center;
+}
+
+.ft-tx-box{
+  width: 70%;
+  gap: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+.ft-tx-1 {
+  font-size: 18px;
+  color: var(--grey);
+  font-weight: 600;
+}
+
+.ft-tx-2 {
+  font-size: 15px;
+  color: var(--grey);
+  font-weight: 400;
+}
+
+.ft-right {
+  display: flex;
+  width: 50%;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.ft-right p {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.ft-right .tx-mail,
+.ft-right .num-phone,
+.ft-right .tx-loc,
+.ft-right .add {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.mail{
+  margin-bottom: 10px;
+}
+
+.loc-wrap {
+  display: flex;
+  flex-direction: column;
+  margin: 30px 0 30px 0;
+}
+
+.mail,
+.phone,
+.loc {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  cursor: pointer;
+}
+
+.tx-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.bx{
+  font-size: 25px;
+  margin-right: 10px;
+  display: flex;
+}
+.ft-bot {
+  width: 100%;
+  height: 35px;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  font-size: 15px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-radius: 10px;
+}
+
+
+.ft-container .wave {
+  position: absolute;
+  top: -100px;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background: var(--blue) url(./assets/wave.png);
+  background-size: 1000px 100px;
+}
+
+.ft-container .wave#wave1 {
+  z-index: 1000;
+  opacity: 1;
+  bottom: 0;
+  animation: animatewave 3s linear infinite;
+}
+
+@keyframes animatewave {
+  0% {
+    background-position-x: 0px;
   }
-  
-  .contact {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    margin-left: 25px;
+
+  100% {
+    background-position-x: 1000px;
   }
-  .mail,
-  .phone {
-    flex-direction: row;
-    display: flex;
-    cursor: pointer;
-  }
-  
-  .bxl-gmail,
-  .bxs-phone-call {
-    font-size: 25px;
-    padding-right: 4px;
-  }
-  .contact p {
-    color: var(--ungumuda);
-    font-weight: 600;
-  }
-  
-  .mail p,
-  .phone p {
-    font-weight: 400;
-  }
-  .addres-box {
-    display: flex;
-    margin-right: 25px;
-    flex-direction: column;
-  }
-  
-  .row {
-    display: flex;
-    flex-direction: row;
-    margin-top: 9px;
-  }
-  .bx-map {
-    font-size: 40px;
-    margin-right: 5px;
-  }
-  .column .indo {
-    font-size: 12px;
-    font-weight: 400;
-  }
-  .column .loc {
-    font-weight: 400;
-  }
-  
-  .addres-box p {
-    color: var(--ungumuda);
-    font-weight: 600;
-  }
-  
-  .footer-bl {
-    display: flex;
-    width: 100%;
-    height: 50px;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    color: #fff;
-    background-color: #000;
-  }
+}
 
   @media (max-width: 768px) {
     .menu {
@@ -329,6 +402,41 @@
       width: 220px;
       height: auto;
     }
+
+    .contact-form input{
+      width: 220px;
+    }
+    .ft-right .tx-mail,
+  .ft-right .num-phone,
+  .ft-right .tx-loc,
+  .ft-right .add {
+    font-size: 11px;
+  }
+  
+  .ft-right p {
+    font-size: 15px;
+  
+  }
+  
+  .ft-tx-1 {
+    font-size: 12px;
+  }
+  
+  .ft-tx-2 {
+    font-size: 10px;
+  }
+  
+  .ft-tx-box{
+    width: 90%;
+  }
+  .bx{
+    font-size: 18px;
+  }
+
+  .ft-bot{
+    height: 20px;
+    font-size: 10px;
+  }
 }
 
   @media (max-width: 500px) {
@@ -388,7 +496,7 @@
     }
 
     .vending-machine img{
-      width: 120px;
+      width: 100px;
       height: auto;
     }
     .footer{
@@ -404,5 +512,75 @@
     
     .footer-bl{
       font-size: 12px;
+    }
+
+    .contact-form input{
+      width: 170px;
+    }
+    .ft-right .tx-mail,
+    .ft-right .num-phone,
+    .ft-right .tx-loc,
+    .ft-right .add {
+      font-size: 8px;
+    }
+    
+    .ft-right p {
+      font-size: 13px;
+    
+    }
+    
+    .ft-tx-1 {
+      font-size: 9px;
+    }
+    
+    .ft-tx-2 {
+      font-size: 7px;
+    }
+    
+    .ft-tx-box{
+      width: 90%;
+    }
+    .bx{
+      font-size: 12px;
+    }
+  
+    .ft-bot{
+      height: 17px;
+      font-size: 9px;
+    }
+    
+}
+
+@media (max-width: 365px){
+  .ft-right .tx-mail,
+    .ft-right .num-phone,
+    .ft-right .tx-loc,
+    .ft-right .add {
+      font-size: 6px;
+    }
+    
+    .ft-right p {
+      font-size: 11px;
+    
+    }
+    
+    .ft-tx-1 {
+      font-size: 7px;
+    }
+    
+    .ft-tx-2 {
+      font-size: 5px;
+    }
+    
+    .ft-tx-box{
+      width: 90%;
+    }
+    .bx{
+      font-size: 10px;
+    }
+  
+    .ft-bot{
+      height: 13px;
+      font-size: 7px;
     }
 }
