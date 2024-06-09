@@ -55,7 +55,7 @@ function initializePieChart(labels, dataset) {
           },
           color: "#000",
           font: {
-            size: 8,
+            size: 9,
           },
           anchor: "center",
           align: "end",

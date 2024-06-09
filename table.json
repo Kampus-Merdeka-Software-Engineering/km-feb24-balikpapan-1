@@ -1,1617 +1,2288 @@
 [
-    {
-      "Product": "Autumns Granola Bar - Cinnamon Almond",
-      "Price": 2,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Bai Antioxidant - Brasilia BB",
-      "Price": 2.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Bai Antioxidant - Kula Watermelon",
-      "Price": 2.75,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Bai Antioxidant - Kupang strawberry kiwi",
-      "Price": 2.75,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Bai Antioxidant - Molokai Coconut",
-      "Price": 2.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Bai Antioxidant - Tanzania Lemon Super Tea",
-      "Price": 2.75,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Bai Antioxidant - Zambia Bingcherry",
-      "Price": 2.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Bai Antioxidant - Zambia Bingcherry",
-      "Price": 2.75,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Bai Lemonade - Burundi Blueberry",
-      "Price": 2.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Bai Lemonade - Burundi Blueberry",
-      "Price": 2.75,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Belvita Breakfast Biscuit Bites - Blueberry",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Belvita Breakfast Cookies - Blueberry",
-      "Price": 1.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Belvita Snack Bites - Cinnamon BS Go Paks",
-      "Price": 3,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Belvita Snack Packs - Blueberry",
-      "Price": 2,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Belvita Snack Packs - Blueberry",
-      "Price": 1.25,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Belvita Snack Packs - Blueberry",
-      "Price": 1.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Belvita Snack Packs - Chocolate",
-      "Price": 1.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Belvita Snack Packs - Cinnamon",
-      "Price": 1.25,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "BodyArmor  LYTE - Blueberry Pomegranate",
-      "Price": 2.75,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "BodyArmor LYTE  - Berry Punch",
-      "Price": 2.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "BodyArmor LYTE  - Peach Mango",
-      "Price": 2,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "BodyArmor LYTE  - Peach Mango",
-      "Price": 2.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "BodyArmor LYTE  - Peach Mango",
-      "Price": 2.75,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "BodyArmor LYTE - Strawberry Lemonade",
-      "Price": 2.75,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Bubly - Blackberry",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Bubly - Cherry",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Bubly - Grapefruit",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Bubly - Lime",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Bubly - Mango",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Canada Dry - Ginger Ale",
-      "Price": 2,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Canada Dry - Ginger Ale",
-      "Price": 2.75,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Canada Dry - Ginger Ale & Lemonde",
-      "Price": 2,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Canada Dry - Ginger Ale & Lemonde",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Cheetos - Crunchy",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Cheetos - Fleming Hot Crunchy",
-      "Price": 2,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Cheetos - Fleming Hot Crunchy",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Cheetos Baked - Crunchy Cheese",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Cheetos Baked - Flaming Hot",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Cheetos Cheddar Jalapeno",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Cheetos Flaming Hot Limon Crunchy",
-      "Price": 1,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Cheetos Flaming Hot Limon Crunchy",
-      "Price": 2,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Cheetos Flaming Hot Limon Crunchy",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Cheetos Puffs",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "CheezIt - Cheddar Sour Cream and Onion",
-      "Price": 1.25,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "CheezIt - Cheddar Sour Cream and Onion",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "CheezIt - Double Cheese",
-      "Price": 1.25,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "CheezIt - Double Cheese",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "CheezIt - Go Paks",
-      "Price": 3,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "CheezIt - Go Paks",
-      "Price": 4,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "CheezIt - Original",
-      "Price": 1,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "CheezIt - Original",
-      "Price": 4,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "CheezIt - Original",
-      "Price": 1.25,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "CheezIt - Original",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "CheezIt - White Cheddar",
-      "Price": 1.25,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "CheezIt - White Cheddar",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Chesters Fries Flaming hot",
-      "Price": 2,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Chesters Fries Flaming hot",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Chum Fruit Bites - Mango/Strawberry",
-      "Price": 1.25,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Coca Cola - Regular",
-      "Price": 2,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Coca Cola - Regular",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Coca Cola - Zero Sugar",
-      "Price": 1,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Coca Cola - Zero Sugar",
-      "Price": 2,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Coca Cola - Zero Sugar",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Doritos Cool Ranch",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Doritos Dinamita Chile Lemon",
-      "Price": 1,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Doritos Dinamita Chile Lemon",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Doritos Famin Hot Nacho",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Doritos Nacho Cheese",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Doritos Spicy Nacho",
-      "Price": 2,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Doritos Spicy Nacho",
-      "Price": 1.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Fritos - Original",
-      "Price": 1.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Fritos - Original",
-      "Price": 2.25,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Fritos - Original",
-      "Price": 2.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Funyuns - Flaming Hot",
-      "Price": 2,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Funyuns - Flaming Hot",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Genius Keto Bar - Chocolate Dream",
-      "Price": 2,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Goldfish Baked - Cheddar",
-      "Price": 1.25,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Goldfish Baked - Cheddar",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Good Health Veggie Stix - Sea Salt",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Good Health Veggie Stix - Zesty Ranch",
-      "Price": 1.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Hersheys Milk Chocolate",
-      "Price": 2,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Hersheys Milk Chocolate",
-      "Price": 2.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Honest Tea - Berry Hibiscus",
-      "Price": 2.75,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Hungry Buddha - Chocolate Chip",
-      "Price": 2,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Hungry Buddha - Coconut Cocoa",
-      "Price": 2,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Iberia Coconut Water",
-      "Price": 2,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Ice Breakers Ice Cubes - PepperMint",
-      "Price": 5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Jack Links Beef Steak Original",
-      "Price": 2,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Jack Links Beef Steak Original",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Jacks Links Bar Beef Strip",
-      "Price": 2,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Keep Healthy - Chocolate Coconut",
-      "Price": 2,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Keep Healthy - Chocolate Fudge",
-      "Price": 2,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Keep Healthy - Sea Salt Brownie",
-      "Price": 2,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Keto Bar - Chocolate Dream",
-      "Price": 2,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Keto Bar - Creamy Peanut Butter Chocolate",
-      "Price": 2,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Keto Bar - Creamy Peanut Butter Chocolate",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Keto Krisp - Almond Butter",
-      "Price": 2,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Keto Krisp - Almond Butter",
-      "Price": 1.25,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Keto Krisp - Almond/Chocolate",
-      "Price": 2,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Keto Krisp - Almond/Chocolate",
-      "Price": 2.25,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "KIND Bar - Dark Choc Almond SeaSalt",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Kinder - Bueno - Crispy Creamy Chocolate",
-      "Price": 2,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "KitKat - Crisp Wafers",
-      "Price": 2,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "KitKat - Crisp Wafers",
-      "Price": 1.25,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "KitKat - Crisp Wafers",
-      "Price": 1.75,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "KitKat - Crisp Wafers",
-      "Price": 2.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Larabar - Peanut Butter chocolate Chip",
-      "Price": 2,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Lays - Classic",
-      "Price": 1.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Lays - Classic",
-      "Price": 2.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Lays Baked - Barbecue",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Lays Baked - Original",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Lenny & Larrys - Chocolate Chip",
-      "Price": 2,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Lenny & Larrys - Chocolate Chip",
-      "Price": 2.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Lenny & Larrys - SnickerDoodle",
-      "Price": 3,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Lenny & Larrys - SnickerDoodle",
-      "Price": 2.25,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Lenny & Larrys - SnickerDoodle",
-      "Price": 2.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Lindens - Chocolate Chippers",
-      "Price": 2,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Lindens - Chocolate Chippers",
-      "Price": 1.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Made in Nature - Mangoes Sweet & Tangy",
-      "Price": 2,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Mini Chips Ahoy",
-      "Price": 4,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Mini Chips Ahoy",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Mini Chips Ahoy - Go Paks",
-      "Price": 4,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Miss Vickie's Potato Chip - Jalapeno",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Miss Vickie's Potato Chip - Lime & Cracked Pe",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Miss Vickie's Potato Chip - Sea Salt & Vinega",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Miss Vickie's Potato Chip - Sea Salt Original",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Miss Vickie's Potato Chip - Smokehouse BBQ",
-      "Price": 1.25,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Miss Vickie's Potato Chip - Smokehouse BBQ",
-      "Price": 1.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Monster Energy  Zero Ultra",
-      "Price": 3,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Monster Energy Original",
-      "Price": 3,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Monster Energy Original",
-      "Price": 3.25,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Munchies Snack mix Flaming Hot",
-      "Price": 2,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Munchies Snack mix Flaming Hot",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Nature's Bakery Fig Bar - Blueberry",
-      "Price": 1.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Nature's Bakery Fig Bar - Raspberry",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Nature's Garden Trail Mix - Cranberry Healthy",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Nature's Garden Trail Mix - Heart Healthy Mix",
-      "Price": 1,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Nature's Garden Trail Mix - Heart Healthy Mix",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Nature's Garden Trail Mix - Omega 3",
-      "Price": 1,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Nature's Garden Trail Mix - Omega 3",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Nature's Valley Chewy Granola Bar - Fruit & N",
-      "Price": 1.25,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Nature's Valley Crunchy Granola Bar - Oats &",
-      "Price": 1.25,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Newtons Fig Bar",
-      "Price": 2,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Newtons Fig Bar",
-      "Price": 1.25,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Newtons Fig Bar",
-      "Price": 1.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "NuGo Dark Chocolate - Choc Chip",
-      "Price": 2,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "NuGo Dark Chocolate - Pretzel Sea Salt",
-      "Price": 2,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Nutri Grain Apple Cinnamon",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Nutter Butter Bites",
-      "Price": 1,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Nutter Butter Bites",
-      "Price": 1.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Oberto Specialty Meats - Original",
-      "Price": 2,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Oberto Specialty Meats - Original",
-      "Price": 3,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Orchard Bar - Variety",
-      "Price": 2,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Oreo Mini",
-      "Price": 2,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Oreo Mini",
-      "Price": 4,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Oreo Mini",
-      "Price": 1.25,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Oreo Mini",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Oreo Mini - Go Paks",
-      "Price": 3,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Oreo Mini - Go Paks",
-      "Price": 4,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Oreo Single Server 6 ct",
-      "Price": 2,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Poland Springs Water",
-      "Price": 2,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Poland Springs Water",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Pop Corners - Kettle Corn",
-      "Price": 1.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Pop Corners - Sea Salt",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Pop Corners - Spicy Queso",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Pop Corners - Sweet & Salty Kettle",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Pop Corners - White Cheddar",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Popchips Potato - Barbeque",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Popchips Potato - Sea Salt",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Popchips Potato - Sour Cream & Onion",
-      "Price": 1.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Pringles - Cheddar Cheese",
-      "Price": 3,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Pringles - Cheddar Cheese",
-      "Price": 4,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Pringles - Cheddar Cheese",
-      "Price": 4.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Pringles - Original",
-      "Price": 3,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Pringles - Original",
-      "Price": 4,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Pringles - Sour Cream & Onion",
-      "Price": 3,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Pringles - Sour Cream & Onion",
-      "Price": 4,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Pure Organic Fruit Bar - Raspberry Lemonade",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Pure Organic Fruit Bar - Raspberry Lemonade",
-      "Price": 2.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Pure Organic Fruit Bar - Strawberry Banana",
-      "Price": 1,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Pure Organic Fruit Bar - Strawberry Banana",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Pure Organic Pineapple Passionfruit",
-      "Price": 1,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Quaker Apple Cinnamon Rice Crisps",
-      "Price": 1,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Quaker ButterMilk Ranch Rice Crisps",
-      "Price": 1,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Quaker ButterMilk Ranch Rice Crisps",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Quaker Caramel Rice Crisps",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Quaker Cheddar Rice Crisps",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Red Bull - Energy Drink - Sugar Free",
-      "Price": 3.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Red Bull - Original",
-      "Price": 3,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Red Bull - Original",
-      "Price": 3.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Remedy Kombucha - Ginger Lemon",
-      "Price": 3,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Ritz Bits Cheese",
-      "Price": 1.25,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Ritz Bits Cheese",
-      "Price": 1.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Ritz Bits Peanut Butter",
-      "Price": 2,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Ritz Bits Peanut Butter",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Robert Irvine's - Fit Crunch -  Chocolate Pea",
-      "Price": 2,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Ruffles Baked  - Cheddar & Sour Cream",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "RXBAR - Protein Bar - Chocolate Sea Salt",
-      "Price": 2,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "RXBAR - Protein Bar - Peanut Butter",
-      "Price": 2,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "S. Pellegrino Essenza Mineral Water - Blood O",
-      "Price": 2.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "S. Pellegrino Sparkling Mineral Water",
-      "Price": 2,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Seapoint Farms Dry Roasted Edamame - Wasabi",
-      "Price": 2,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Seapoint Farms Dry Roasted Edamame - Wasabi",
-      "Price": 2.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Simply Protein - Dark Chocolate Sea Salt",
-      "Price": 2,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Simply Protein - Lemon Coconut",
-      "Price": 2,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Simply Protein - Peanut Butter Chocolate",
-      "Price": 2,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Skinny Pop Popcorn",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Skippy Peanut Butter - Go Paks",
-      "Price": 4.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Snapple Diet Tea - Lemon",
-      "Price": 2.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Snapple Diet Tea - Lemon",
-      "Price": 2.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Snapple Diet Tea - Peach Tea",
-      "Price": 2.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Snapple Diet Tea - Peach Tea",
-      "Price": 2.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Snapple Diet Tea - Raspberry",
-      "Price": 2.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Snapple Lemonade - black berry",
-      "Price": 2.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Snapple Lemonade - pineapple",
-      "Price": 2.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Snapple Lemonade - watermelon",
-      "Price": 2.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Snapple Tea - Lemon",
-      "Price": 2.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Snapple Tea - Lemon",
-      "Price": 2.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Snapple Tea - Peach",
-      "Price": 2.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Snapple Tea - Raspberry",
-      "Price": 2.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Snapple Tea - Raspberry",
-      "Price": 2.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Snapple Tea - Raspberry",
-      "Price": 2.75,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Snyder's of Hanover Pretzel - Cheddar Cheese",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Snyder's of Hanover Pretzel - Cheddar Cheese",
-      "Price": 2.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Snyder's of Hanover Pretzel Pieces - Cheddar",
-      "Price": 2,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Snyder's of Hanover Pretzel Pieces - Cheddar",
-      "Price": 2.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Snyder's of Hanover Pretzel Pieces - Honey Mu",
-      "Price": 2,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Snyder's of Hanover Pretzel Pieces - Honey Mu",
-      "Price": 2.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Snyder's of Hanover Pretzel Pieces - Hot Buff",
-      "Price": 2,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Snyder's of Hanover Pretzel Pieces - Hot Buff",
-      "Price": 2.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Spindrift - Sparkling Water  Grapefruit",
-      "Price": 1.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Spindrift - Sparkling Water  Lime",
-      "Price": 1,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Spindrift - Sparkling Water  Lime",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Spindrift - Sparkling Water - Pineapple",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Spindrift - Sparkling Water Raspberry Lime",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Starbucks Doubleshot Energy - Coffee",
-      "Price": 4,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Starbucks Doubleshot Energy - Coffee",
-      "Price": 3.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Starbucks Doubleshot Energy - Mocha",
-      "Price": 1,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Starbucks Doubleshot Energy - Mocha",
-      "Price": 4,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Starbucks Doubleshot Energy - Mocha",
-      "Price": 3.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Starbucks Refresher - Real Coconut Water",
-      "Price": 3,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Starbucks Refresher - Real Coconut Water",
-      "Price": 3.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Stretch Island Fruit Leathers Snacks - Variet",
-      "Price": 1,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "SunChips Multigrain - French Onion",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "SunChips Multigrain - Harvest Cheddar",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "SunChips Multigrain - Original",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "SunChips Multigrain - Salsa",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Sunkist Soda - Orange",
-      "Price": 1,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Sunkist Soda - Orange",
-      "Price": 1.25,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Sunkist Soda - Orange",
-      "Price": 1.5,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Takis - Hot Chilli Pepper & Lime",
-      "Price": 1.25,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Takis - Hot Chilli Pepper & Lime",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Takis FUGEO mini",
-      "Price": 1.25,
-      "Machine": "GuttenPlans x1367",
-      "Location": "GuttenPlans"
-    },
-    {
-      "Product": "Takis FUGEO mini",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Teddy Grahams - Go Paks",
-      "Price": 3,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "Teddy Grahams - Go Paks",
-      "Price": 4,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "TruBar - Cookie Dough",
-      "Price": 2.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "TruBar - Daydreaming about Donuts",
-      "Price": 2.5,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "V8 Vegetable Juice - Original",
-      "Price": 2,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    },
-    {
-      "Product": "V8 Vegetable Juice - Original",
-      "Price": 1.5,
-      "Machine": "BSQ Mall x1366 - ATT",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Vitamin Water - Ice Cool Blue Lavender",
-      "Price": 2.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Vitamin Water - Ice Cool Blue Lavender",
-      "Price": 2.75,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Vitamin Water - Squeezed Lemonade",
-      "Price": 2.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Vitamin Water - Squeezed Lemonade",
-      "Price": 2.75,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Vitamin Water - XXX Acai BB Pomegranate",
-      "Price": 2.75,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Wonderful Pistachios - Variety",
-      "Price": 2,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Zevia Organic Tea - Peach",
-      "Price": 2.5,
-      "Machine": "Earle Asphalt x1371",
-      "Location": "Earle Asphalt"
-    },
-    {
-      "Product": "Zevia Zero Calorie Energy - Mango Ginger",
-      "Price": 2.5,
-      "Machine": "BSQ Mall x1364 - Zales",
-      "Location": "Brunswick Sq Mall"
-    },
-    {
-      "Product": "Zone Perfect - Chocolate Chip Cookie Dough",
-      "Price": 2,
-      "Machine": "EB Public Library x1380",
-      "Location": "EB Public Library"
-    }
-  ]
-  
+  {
+    "Product": "Monster Energy Original",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 420,
+    "Revenue": 1264
+  },
+  {
+    "Product": "Red Bull - Original",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 225,
+    "Revenue": 763
+  },
+  {
+    "Product": "Coca Cola - Zero Sugar",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 269,
+    "Revenue": 486
+  },
+  {
+    "Product": "Coca Cola - Regular",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 308,
+    "Revenue": 466.5
+  },
+  {
+    "Product": "Starbucks Doubleshot Energy - Mocha",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 130,
+    "Revenue": 463
+  },
+  {
+    "Product": "KitKat - Crisp Wafers",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 183,
+    "Revenue": 422.5
+  },
+  {
+    "Product": "Sunkist Soda - Orange",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 290,
+    "Revenue": 381.5
+  },
+  {
+    "Product": "Coca Cola - Zero Sugar",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 280,
+    "Revenue": 344
+  },
+  {
+    "Product": "Poland Springs Water",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 206,
+    "Revenue": 310.5
+  },
+  {
+    "Product": "Starbucks Refresher - Real Coconut Water",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 95,
+    "Revenue": 285
+  },
+  {
+    "Product": "Poland Springs Water",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 164,
+    "Revenue": 259.5
+  },
+  {
+    "Product": "Oreo Mini - Go Paks",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 61,
+    "Revenue": 249
+  },
+  {
+    "Product": "Snapple Tea - Raspberry",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 96,
+    "Revenue": 240
+  },
+  {
+    "Product": "Robert Irvine's - Fit Crunch -  Chocolate Pea",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 102,
+    "Revenue": 204
+  },
+  {
+    "Product": "Bai Antioxidant - Tanzania Lemon Super Tea",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 70,
+    "Revenue": 195.25
+  },
+  {
+    "Product": "Wonderful Pistachios - Variety",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 93,
+    "Revenue": 188
+  },
+  {
+    "Product": "Cheetos - Fleming Hot Crunchy",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 106,
+    "Revenue": 171.5
+  },
+  {
+    "Product": "Snapple Tea - Peach",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 68,
+    "Revenue": 170
+  },
+  {
+    "Product": "Monster Energy Original",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 56,
+    "Revenue": 168
+  },
+  {
+    "Product": "CheezIt - Original",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 102,
+    "Revenue": 167.5
+  },
+  {
+    "Product": "Snapple Tea - Lemon",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 66,
+    "Revenue": 165
+  },
+  {
+    "Product": "Funyuns - Flaming Hot",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 102,
+    "Revenue": 156.5
+  },
+  {
+    "Product": "Cheetos Flaming Hot Limon Crunchy",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 97,
+    "Revenue": 154
+  },
+  {
+    "Product": "SunChips Multigrain - Harvest Cheddar",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 100,
+    "Revenue": 151.5
+  },
+  {
+    "Product": "Wonderful Pistachios - Variety",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 73,
+    "Revenue": 150
+  },
+  {
+    "Product": "Kinder - Bueno - Crispy Creamy Chocolate",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 69,
+    "Revenue": 140
+  },
+  {
+    "Product": "Goldfish Baked - Cheddar",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 104,
+    "Revenue": 133.75
+  },
+  {
+    "Product": "Nature's Bakery Fig Bar - Raspberry",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 84,
+    "Revenue": 132
+  },
+  {
+    "Product": "Lenny & Larrys - SnickerDoodle",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 45,
+    "Revenue": 127.5
+  },
+  {
+    "Product": "Pringles - Cheddar Cheese",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 39,
+    "Revenue": 122
+  },
+  {
+    "Product": "Iberia Coconut Water",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 60,
+    "Revenue": 120
+  },
+  {
+    "Product": "Ice Breakers Ice Cubes - PepperMint",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 24,
+    "Revenue": 120
+  },
+  {
+    "Product": "Pringles - Sour Cream & Onion",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 35,
+    "Revenue": 119
+  },
+  {
+    "Product": "SunChips Multigrain - Salsa",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 79,
+    "Revenue": 118.5
+  },
+  {
+    "Product": "Chesters Fries Flaming hot",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 71,
+    "Revenue": 115.5
+  },
+  {
+    "Product": "Snapple Diet Tea - Peach Tea",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 46,
+    "Revenue": 115
+  },
+  {
+    "Product": "CheezIt - Go Paks",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 30,
+    "Revenue": 114
+  },
+  {
+    "Product": "Monster Energy Original",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 38,
+    "Revenue": 114
+  },
+  {
+    "Product": "Coca Cola - Zero Sugar",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 73,
+    "Revenue": 114
+  },
+  {
+    "Product": "Snapple Diet Tea - Lemon",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 45,
+    "Revenue": 112.5
+  },
+  {
+    "Product": "Nature's Bakery Fig Bar - Blueberry",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 71,
+    "Revenue": 112.5
+  },
+  {
+    "Product": "Lenny & Larrys - Chocolate Chip",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 47,
+    "Revenue": 111
+  },
+  {
+    "Product": "Lays - Classic",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 73,
+    "Revenue": 109.5
+  },
+  {
+    "Product": "Mini Chips Ahoy - Go Paks",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 27,
+    "Revenue": 108
+  },
+  {
+    "Product": "Snapple Diet Tea - Peach Tea",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 43,
+    "Revenue": 107.5
+  },
+  {
+    "Product": "Poland Springs Water",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 57,
+    "Revenue": 107
+  },
+  {
+    "Product": "SunChips Multigrain - Original",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 69,
+    "Revenue": 103.5
+  },
+  {
+    "Product": "Oreo Mini",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 47,
+    "Revenue": 97.5
+  },
+  {
+    "Product": "Doritos Famin Hot Nacho",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 64,
+    "Revenue": 96
+  },
+  {
+    "Product": "Robert Irvine's - Fit Crunch -  Chocolate Pea",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 48,
+    "Revenue": 96
+  },
+  {
+    "Product": "Mini Chips Ahoy",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 24,
+    "Revenue": 96
+  },
+  {
+    "Product": "BodyArmor LYTE - Strawberry Lemonade",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 32,
+    "Revenue": 88
+  },
+  {
+    "Product": "S. Pellegrino Sparkling Mineral Water",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 44,
+    "Revenue": 88
+  },
+  {
+    "Product": "Coca Cola - Regular",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 42,
+    "Revenue": 84
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Sea Salt Original",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 53,
+    "Revenue": 79.5
+  },
+  {
+    "Product": "Pringles - Original",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 23,
+    "Revenue": 79
+  },
+  {
+    "Product": "Teddy Grahams - Go Paks",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 20,
+    "Revenue": 77
+  },
+  {
+    "Product": "CheezIt - White Cheddar",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 51,
+    "Revenue": 75.5
+  },
+  {
+    "Product": "Keto Bar - Creamy Peanut Butter Chocolate",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 34,
+    "Revenue": 72
+  },
+  {
+    "Product": "BodyArmor  LYTE - Blueberry Pomegranate",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 26,
+    "Revenue": 71.5
+  },
+  {
+    "Product": "Snapple Tea - Raspberry",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 27,
+    "Revenue": 70.75
+  },
+  {
+    "Product": "SunChips Multigrain - Harvest Cheddar",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 47,
+    "Revenue": 70.5
+  },
+  {
+    "Product": "Doritos Nacho Cheese",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 47,
+    "Revenue": 70.5
+  },
+  {
+    "Product": "KitKat - Crisp Wafers",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 29,
+    "Revenue": 70
+  },
+  {
+    "Product": "Iberia Coconut Water",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 34,
+    "Revenue": 68
+  },
+  {
+    "Product": "Seapoint Farms Dry Roasted Edamame - Wasabi",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 27,
+    "Revenue": 67.5
+  },
+  {
+    "Product": "Pop Corners - Sea Salt",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 44,
+    "Revenue": 66
+  },
+  {
+    "Product": "Snapple Diet Tea - Peach Tea",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 26,
+    "Revenue": 65
+  },
+  {
+    "Product": "Doritos Spicy Nacho",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 39,
+    "Revenue": 63
+  },
+  {
+    "Product": "SunChips Multigrain - Salsa",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 40,
+    "Revenue": 60
+  },
+  {
+    "Product": "Spindrift - Sparkling Water - Pineapple",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 40,
+    "Revenue": 60
+  },
+  {
+    "Product": "SunChips Multigrain - Original",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 35,
+    "Revenue": 58.5
+  },
+  {
+    "Product": "Cheetos Puffs",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 39,
+    "Revenue": 58.5
+  },
+  {
+    "Product": "SunChips Multigrain - Harvest Cheddar",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 39,
+    "Revenue": 58.5
+  },
+  {
+    "Product": "Spindrift - Sparkling Water  Lime",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 38,
+    "Revenue": 58.5
+  },
+  {
+    "Product": "Genius Keto Bar - Chocolate Dream",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 28,
+    "Revenue": 58
+  },
+  {
+    "Product": "Oreo Single Server 6 ct",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 25,
+    "Revenue": 58
+  },
+  {
+    "Product": "Snyder's of Hanover Pretzel Pieces - Honey Mu",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 26,
+    "Revenue": 57.5
+  },
+  {
+    "Product": "Snapple Diet Tea - Lemon",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 23,
+    "Revenue": 57.5
+  },
+  {
+    "Product": "SunChips Multigrain - Salsa",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 33,
+    "Revenue": 57
+  },
+  {
+    "Product": "CheezIt - Double Cheese",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 40,
+    "Revenue": 55.75
+  },
+  {
+    "Product": "Fritos - Original",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 37,
+    "Revenue": 55.5
+  },
+  {
+    "Product": "RXBAR - Protein Bar - Peanut Butter",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 27,
+    "Revenue": 54
+  },
+  {
+    "Product": "Nutri Grain Apple Cinnamon",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 35,
+    "Revenue": 52.5
+  },
+  {
+    "Product": "Snyder's of Hanover Pretzel Pieces - Cheddar",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 19,
+    "Revenue": 52.5
+  },
+  {
+    "Product": "Doritos Cool Ranch",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 33,
+    "Revenue": 52.5
+  },
+  {
+    "Product": "Snyder's of Hanover Pretzel Pieces - Hot Buff",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 23,
+    "Revenue": 52.5
+  },
+  {
+    "Product": "Cheetos Cheddar Jalapeno",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 35,
+    "Revenue": 52.5
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Smokehouse BBQ",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 34,
+    "Revenue": 51
+  },
+  {
+    "Product": "RXBAR - Protein Bar - Chocolate Sea Salt",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 25,
+    "Revenue": 50
+  },
+  {
+    "Product": "Snapple Diet Tea - Lemon",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 20,
+    "Revenue": 50
+  },
+  {
+    "Product": "CheezIt - Original",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 36,
+    "Revenue": 50
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Sea Salt & Vinega",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 33,
+    "Revenue": 49.5
+  },
+  {
+    "Product": "Red Bull - Original",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 13,
+    "Revenue": 49
+  },
+  {
+    "Product": "BodyArmor LYTE  - Peach Mango",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 18,
+    "Revenue": 48.25
+  },
+  {
+    "Product": "Jacks Links Bar Beef Strip",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 24,
+    "Revenue": 48
+  },
+  {
+    "Product": "KitKat - Crisp Wafers",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 24,
+    "Revenue": 48
+  },
+  {
+    "Product": "Snapple Diet Tea - Raspberry",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 19,
+    "Revenue": 47.5
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Jalapeno",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 31,
+    "Revenue": 46.5
+  },
+  {
+    "Product": "Pop Corners - Kettle Corn",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 31,
+    "Revenue": 46.5
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Lime & Cracked Pe",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 31,
+    "Revenue": 46.5
+  },
+  {
+    "Product": "Red Bull - Energy Drink - Sugar Free",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 13,
+    "Revenue": 45.5
+  },
+  {
+    "Product": "Takis - Hot Chilli Pepper & Lime",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 30,
+    "Revenue": 45
+  },
+  {
+    "Product": "Mini Chips Ahoy",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 30,
+    "Revenue": 45
+  },
+  {
+    "Product": "Snapple Tea - Lemon",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 16,
+    "Revenue": 45
+  },
+  {
+    "Product": "Pop Corners - Kettle Corn",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 29,
+    "Revenue": 45
+  },
+  {
+    "Product": "S. Pellegrino Sparkling Mineral Water",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 22,
+    "Revenue": 44
+  },
+  {
+    "Product": "Vitamin Water - XXX Acai BB Pomegranate",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 16,
+    "Revenue": 44
+  },
+  {
+    "Product": "Starbucks Doubleshot Energy - Coffee",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 12,
+    "Revenue": 44
+  },
+  {
+    "Product": "Canada Dry - Ginger Ale & Lemonde",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 25,
+    "Revenue": 44
+  },
+  {
+    "Product": "Cheetos - Crunchy",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 29,
+    "Revenue": 43.5
+  },
+  {
+    "Product": "SunChips Multigrain - Harvest Cheddar",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 29,
+    "Revenue": 43.5
+  },
+  {
+    "Product": "Takis - Hot Chilli Pepper & Lime",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 29,
+    "Revenue": 43.5
+  },
+  {
+    "Product": "Pop Corners - White Cheddar",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 29,
+    "Revenue": 43.5
+  },
+  {
+    "Product": "Takis FUGEO mini",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 28,
+    "Revenue": 42.75
+  },
+  {
+    "Product": "CheezIt - Original",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 29,
+    "Revenue": 42.5
+  },
+  {
+    "Product": "Keto Bar - Creamy Peanut Butter Chocolate",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 20,
+    "Revenue": 42
+  },
+  {
+    "Product": "Starbucks Doubleshot Energy - Coffee",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 12,
+    "Revenue": 42
+  },
+  {
+    "Product": "Simply Protein - Lemon Coconut",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 21,
+    "Revenue": 42
+  },
+  {
+    "Product": "CheezIt - Cheddar Sour Cream and Onion",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 29,
+    "Revenue": 41.75
+  },
+  {
+    "Product": "Oreo Mini",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 27,
+    "Revenue": 40.75
+  },
+  {
+    "Product": "Canada Dry - Ginger Ale",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 15,
+    "Revenue": 40.5
+  },
+  {
+    "Product": "Ritz Bits Cheese",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 28,
+    "Revenue": 40.5
+  },
+  {
+    "Product": "Simply Protein - Peanut Butter Chocolate",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 20,
+    "Revenue": 40
+  },
+  {
+    "Product": "Starbucks Refresher - Real Coconut Water",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 12,
+    "Revenue": 40
+  },
+  {
+    "Product": "Jack Links Beef Steak Original",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 21,
+    "Revenue": 39.5
+  },
+  {
+    "Product": "Oreo Mini",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 25,
+    "Revenue": 39.25
+  },
+  {
+    "Product": "BodyArmor LYTE  - Peach Mango",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 14,
+    "Revenue": 38.5
+  },
+  {
+    "Product": "CheezIt - Original",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 27,
+    "Revenue": 38.25
+  },
+  {
+    "Product": "Oreo Single Server 6 ct",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 19,
+    "Revenue": 38
+  },
+  {
+    "Product": "SunChips Multigrain - Salsa",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 25,
+    "Revenue": 37.5
+  },
+  {
+    "Product": "Fritos - Original",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 20,
+    "Revenue": 36.5
+  },
+  {
+    "Product": "S. Pellegrino Essenza Mineral Water - Blood O",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 14,
+    "Revenue": 35
+  },
+  {
+    "Product": "Cheetos Baked - Flaming Hot",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 23,
+    "Revenue": 34.5
+  },
+  {
+    "Product": "Doritos Dinamita Chile Lemon",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 24,
+    "Revenue": 34
+  },
+  {
+    "Product": "Takis - Hot Chilli Pepper & Lime",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 22,
+    "Revenue": 33
+  },
+  {
+    "Product": "Oreo Mini",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 21,
+    "Revenue": 33
+  },
+  {
+    "Product": "Takis FUGEO mini",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 20,
+    "Revenue": 33
+  },
+  {
+    "Product": "Snapple Tea - Lemon",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 12,
+    "Revenue": 32.5
+  },
+  {
+    "Product": "Wonderful Pistachios - Variety",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 15,
+    "Revenue": 32
+  },
+  {
+    "Product": "Simply Protein - Dark Chocolate Sea Salt",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 15,
+    "Revenue": 32
+  },
+  {
+    "Product": "Belvita Snack Packs - Blueberry",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 21,
+    "Revenue": 32
+  },
+  {
+    "Product": "Robert Irvine's - Fit Crunch -  Chocolate Pea",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 16,
+    "Revenue": 32
+  },
+  {
+    "Product": "Keto Krisp - Almond Butter",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 16,
+    "Revenue": 32
+  },
+  {
+    "Product": "Oreo Mini",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 20,
+    "Revenue": 31.5
+  },
+  {
+    "Product": "SunChips Multigrain - French Onion",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 21,
+    "Revenue": 31.5
+  },
+  {
+    "Product": "Vitamin Water - Squeezed Lemonade",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 11,
+    "Revenue": 30.25
+  },
+  {
+    "Product": "SunChips Multigrain - Original",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 20,
+    "Revenue": 30
+  },
+  {
+    "Product": "Pop Corners - Sea Salt",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 20,
+    "Revenue": 30
+  },
+  {
+    "Product": "Bai Antioxidant - Molokai Coconut",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 12,
+    "Revenue": 30
+  },
+  {
+    "Product": "Monster Energy  Zero Ultra",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 10,
+    "Revenue": 30
+  },
+  {
+    "Product": "Newtons Fig Bar",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 20,
+    "Revenue": 30
+  },
+  {
+    "Product": "Munchies Snack mix Flaming Hot",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 15,
+    "Revenue": 29.5
+  },
+  {
+    "Product": "SunChips Multigrain - Original",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 19,
+    "Revenue": 28.5
+  },
+  {
+    "Product": "SunChips Multigrain - Salsa",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 18,
+    "Revenue": 28.5
+  },
+  {
+    "Product": "Red Bull - Energy Drink - Sugar Free",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 8,
+    "Revenue": 28
+  },
+  {
+    "Product": "Autumns Granola Bar - Cinnamon Almond",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 13,
+    "Revenue": 28
+  },
+  {
+    "Product": "Lindens - Chocolate Chippers",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 14,
+    "Revenue": 28
+  },
+  {
+    "Product": "Honest Tea - Berry Hibiscus",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 10,
+    "Revenue": 27.5
+  },
+  {
+    "Product": "Vitamin Water - Squeezed Lemonade",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 10,
+    "Revenue": 27.5
+  },
+  {
+    "Product": "Pop Corners - Spicy Queso",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 17,
+    "Revenue": 27
+  },
+  {
+    "Product": "Takis FUGEO mini",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 17,
+    "Revenue": 27
+  },
+  {
+    "Product": "SunChips Multigrain - Harvest Cheddar",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 17,
+    "Revenue": 27
+  },
+  {
+    "Product": "Good Health Veggie Stix - Zesty Ranch",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 18,
+    "Revenue": 27
+  },
+  {
+    "Product": "V8 Vegetable Juice - Original",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 13,
+    "Revenue": 26
+  },
+  {
+    "Product": "KitKat - Crisp Wafers",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 15,
+    "Revenue": 25.5
+  },
+  {
+    "Product": "Coca Cola - Zero Sugar",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 17,
+    "Revenue": 25.5
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Jalapeno",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 17,
+    "Revenue": 25.5
+  },
+  {
+    "Product": "Canada Dry - Ginger Ale & Lemonde",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 14,
+    "Revenue": 25.5
+  },
+  {
+    "Product": "Cheetos Baked - Crunchy Cheese",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 17,
+    "Revenue": 25.5
+  },
+  {
+    "Product": "Pop Corners - Spicy Queso",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 17,
+    "Revenue": 25.5
+  },
+  {
+    "Product": "Ruffles Baked  - Cheddar & Sour Cream",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 15,
+    "Revenue": 25.5
+  },
+  {
+    "Product": "Snyder's of Hanover Pretzel - Cheddar Cheese",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 10,
+    "Revenue": 25
+  },
+  {
+    "Product": "Bai Antioxidant - Kupang strawberry kiwi",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 8,
+    "Revenue": 24.75
+  },
+  {
+    "Product": "Pure Organic Fruit Bar - Strawberry Banana",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 17,
+    "Revenue": 24.5
+  },
+  {
+    "Product": "KitKat - Crisp Wafers",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 14,
+    "Revenue": 24.5
+  },
+  {
+    "Product": "Spindrift - Sparkling Water - Pineapple",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 15,
+    "Revenue": 24
+  },
+  {
+    "Product": "Kinder - Bueno - Crispy Creamy Chocolate",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 12,
+    "Revenue": 24
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Lime & Cracked Pe",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 16,
+    "Revenue": 24
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Smokehouse BBQ",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 16,
+    "Revenue": 24
+  },
+  {
+    "Product": "Goldfish Baked - Cheddar",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 19,
+    "Revenue": 23.75
+  },
+  {
+    "Product": "Lindens - Chocolate Chippers",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 12,
+    "Revenue": 23
+  },
+  {
+    "Product": "Skinny Pop Popcorn",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 15,
+    "Revenue": 22.5
+  },
+  {
+    "Product": "Hersheys Milk Chocolate",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 9,
+    "Revenue": 22.5
+  },
+  {
+    "Product": "SunChips Multigrain - French Onion",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 15,
+    "Revenue": 22.5
+  },
+  {
+    "Product": "Pop Corners - White Cheddar",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 15,
+    "Revenue": 22.5
+  },
+  {
+    "Product": "Snapple Diet Tea - Lemon",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 7,
+    "Revenue": 22.5
+  },
+  {
+    "Product": "Newtons Fig Bar",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 11,
+    "Revenue": 22
+  },
+  {
+    "Product": "Kinder - Bueno - Crispy Creamy Chocolate",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 11,
+    "Revenue": 22
+  },
+  {
+    "Product": "Goldfish Baked - Cheddar",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 14,
+    "Revenue": 21
+  },
+  {
+    "Product": "RXBAR - Protein Bar - Peanut Butter",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 10,
+    "Revenue": 20
+  },
+  {
+    "Product": "Snapple Lemonade - pineapple",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 8,
+    "Revenue": 20
+  },
+  {
+    "Product": "Bai Antioxidant - Zambia Bingcherry",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 8,
+    "Revenue": 20
+  },
+  {
+    "Product": "Snapple Diet Tea - Raspberry",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 8,
+    "Revenue": 20
+  },
+  {
+    "Product": "Snapple Lemonade - black berry",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 8,
+    "Revenue": 20
+  },
+  {
+    "Product": "Wonderful Pistachios - Variety",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 10,
+    "Revenue": 20
+  },
+  {
+    "Product": "Snapple Lemonade - watermelon",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 8,
+    "Revenue": 20
+  },
+  {
+    "Product": "Pop Corners - White Cheddar",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 13,
+    "Revenue": 19.5
+  },
+  {
+    "Product": "Newtons Fig Bar",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 13,
+    "Revenue": 19.5
+  },
+  {
+    "Product": "Good Health Veggie Stix - Sea Salt",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 13,
+    "Revenue": 19.5
+  },
+  {
+    "Product": "Good Health Veggie Stix - Sea Salt",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 13,
+    "Revenue": 19.5
+  },
+  {
+    "Product": "Keto Bar - Creamy Peanut Butter Chocolate",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 10,
+    "Revenue": 19.5
+  },
+  {
+    "Product": "Vitamin Water - Ice Cool Blue Lavender",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 6,
+    "Revenue": 19.25
+  },
+  {
+    "Product": "Doritos Spicy Nacho",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 10,
+    "Revenue": 18.5
+  },
+  {
+    "Product": "Good Health Veggie Stix - Sea Salt",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 11,
+    "Revenue": 18
+  },
+  {
+    "Product": "Jacks Links Bar Beef Strip",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 9,
+    "Revenue": 18
+  },
+  {
+    "Product": "CheezIt - Cheddar Sour Cream and Onion",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 12,
+    "Revenue": 18
+  },
+  {
+    "Product": "Spindrift - Sparkling Water  Lime",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 12,
+    "Revenue": 18
+  },
+  {
+    "Product": "Simply Protein - Lemon Coconut",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 9,
+    "Revenue": 18
+  },
+  {
+    "Product": "Pop Corners - Sweet & Salty Kettle",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 12,
+    "Revenue": 18
+  },
+  {
+    "Product": "Kinder - Bueno - Crispy Creamy Chocolate",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 9,
+    "Revenue": 18
+  },
+  {
+    "Product": "NuGo Dark Chocolate - Choc Chip",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 9,
+    "Revenue": 18
+  },
+  {
+    "Product": "Snapple Diet Tea - Raspberry",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 7,
+    "Revenue": 17.5
+  },
+  {
+    "Product": "TruBar - Cookie Dough",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 7,
+    "Revenue": 17.5
+  },
+  {
+    "Product": "Bai Lemonade - Burundi Blueberry",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 7,
+    "Revenue": 17.5
+  },
+  {
+    "Product": "Bai Antioxidant - Zambia Bingcherry",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 7,
+    "Revenue": 17.5
+  },
+  {
+    "Product": "TruBar - Daydreaming about Donuts",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 7,
+    "Revenue": 17.5
+  },
+  {
+    "Product": "Snapple Tea - Raspberry",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 7,
+    "Revenue": 17.5
+  },
+  {
+    "Product": "Snapple Tea - Raspberry",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 7,
+    "Revenue": 17.5
+  },
+  {
+    "Product": "Lays - Classic",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 8,
+    "Revenue": 17
+  },
+  {
+    "Product": "Goldfish Baked - Cheddar",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 11,
+    "Revenue": 16.5
+  },
+  {
+    "Product": "Good Health Veggie Stix - Sea Salt",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 11,
+    "Revenue": 16.5
+  },
+  {
+    "Product": "CheezIt - White Cheddar",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 11,
+    "Revenue": 16.5
+  },
+  {
+    "Product": "Nutter Butter Bites",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 15,
+    "Revenue": 16
+  },
+  {
+    "Product": "RXBAR - Protein Bar - Chocolate Sea Salt",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 8,
+    "Revenue": 16
+  },
+  {
+    "Product": "Keto Krisp - Almond/Chocolate",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 8,
+    "Revenue": 16
+  },
+  {
+    "Product": "Takis - Hot Chilli Pepper & Lime",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 9,
+    "Revenue": 15.5
+  },
+  {
+    "Product": "Zevia Zero Calorie Energy - Mango Ginger",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 6,
+    "Revenue": 15
+  },
+  {
+    "Product": "Spindrift - Sparkling Water  Grapefruit",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 10,
+    "Revenue": 15
+  },
+  {
+    "Product": "Belvita Snack Bites - Cinnamon BS Go Paks",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 5,
+    "Revenue": 15
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Sea Salt Original",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 9,
+    "Revenue": 15
+  },
+  {
+    "Product": "Pop Corners - Spicy Queso",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 10,
+    "Revenue": 15
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Sea Salt & Vinega",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 10,
+    "Revenue": 15
+  },
+  {
+    "Product": "Seapoint Farms Dry Roasted Edamame - Wasabi",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 6,
+    "Revenue": 15
+  },
+  {
+    "Product": "Hungry Buddha - Chocolate Chip",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 7,
+    "Revenue": 14
+  },
+  {
+    "Product": "Snyder's of Hanover Pretzel Pieces - Honey Mu",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 7,
+    "Revenue": 14
+  },
+  {
+    "Product": "Orchard Bar - Variety",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 7,
+    "Revenue": 14
+  },
+  {
+    "Product": "Robert Irvine's - Fit Crunch -  Chocolate Pea",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 7,
+    "Revenue": 14
+  },
+  {
+    "Product": "Keep Healthy - Chocolate Fudge",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 7,
+    "Revenue": 14
+  },
+  {
+    "Product": "Bai Antioxidant - Kula Watermelon",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 5,
+    "Revenue": 13.75
+  },
+  {
+    "Product": "BodyArmor  LYTE - Blueberry Pomegranate",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 5,
+    "Revenue": 13.75
+  },
+  {
+    "Product": "BodyArmor LYTE - Strawberry Lemonade",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 5,
+    "Revenue": 13.75
+  },
+  {
+    "Product": "Pop Corners - Sweet & Salty Kettle",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 9,
+    "Revenue": 13.5
+  },
+  {
+    "Product": "Popchips Potato - Sea Salt",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 9,
+    "Revenue": 13.5
+  },
+  {
+    "Product": "Pop Corners - Sea Salt",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 9,
+    "Revenue": 13.5
+  },
+  {
+    "Product": "Takis FUGEO mini",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 9,
+    "Revenue": 13.5
+  },
+  {
+    "Product": "Pop Corners - Sea Salt",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 9,
+    "Revenue": 13.5
+  },
+  {
+    "Product": "Nutter Butter Bites",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 9,
+    "Revenue": 13.5
+  },
+  {
+    "Product": "Keto Krisp - Almond Butter",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 6,
+    "Revenue": 12
+  },
+  {
+    "Product": "Popchips Potato - Barbeque",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 8,
+    "Revenue": 12
+  },
+  {
+    "Product": "Hersheys Milk Chocolate",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 6,
+    "Revenue": 12
+  },
+  {
+    "Product": "V8 Vegetable Juice - Original",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 8,
+    "Revenue": 12
+  },
+  {
+    "Product": "Nutter Butter Bites",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 8,
+    "Revenue": 12
+  },
+  {
+    "Product": "SunChips Multigrain - Original",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 8,
+    "Revenue": 12
+  },
+  {
+    "Product": "Oreo Single Server 6 ct",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 6,
+    "Revenue": 12
+  },
+  {
+    "Product": "Hungry Buddha - Coconut Cocoa",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 6,
+    "Revenue": 12
+  },
+  {
+    "Product": "NuGo Dark Chocolate - Pretzel Sea Salt",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 5,
+    "Revenue": 12
+  },
+  {
+    "Product": "Keto Krisp - Almond/Chocolate",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 6,
+    "Revenue": 12
+  },
+  {
+    "Product": "Hungry Buddha - Chocolate Chip",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 6,
+    "Revenue": 12
+  },
+  {
+    "Product": "Snyder's of Hanover Pretzel - Cheddar Cheese",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 8,
+    "Revenue": 12
+  },
+  {
+    "Product": "Oberto Specialty Meats - Original",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 4,
+    "Revenue": 11
+  },
+  {
+    "Product": "Quaker Caramel Rice Crisps",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 6,
+    "Revenue": 10.5
+  },
+  {
+    "Product": "CheezIt - Double Cheese",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 7,
+    "Revenue": 10.5
+  },
+  {
+    "Product": "Ritz Bits Cheese",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 7,
+    "Revenue": 10.5
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Sea Salt Original",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 7,
+    "Revenue": 10.5
+  },
+  {
+    "Product": "SunChips Multigrain - French Onion",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 7,
+    "Revenue": 10.5
+  },
+  {
+    "Product": "Goldfish Baked - Cheddar",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 7,
+    "Revenue": 10.5
+  },
+  {
+    "Product": "Popchips Potato - Sea Salt",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 7,
+    "Revenue": 10.5
+  },
+  {
+    "Product": "Lays Baked - Original",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 7,
+    "Revenue": 10.5
+  },
+  {
+    "Product": "Popchips Potato - Sour Cream & Onion",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 7,
+    "Revenue": 10.5
+  },
+  {
+    "Product": "Cheetos Baked - Crunchy Cheese",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 7,
+    "Revenue": 10.5
+  },
+  {
+    "Product": "V8 Vegetable Juice - Original",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 7,
+    "Revenue": 10.5
+  },
+  {
+    "Product": "Popchips Potato - Sea Salt",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 7,
+    "Revenue": 10.5
+  },
+  {
+    "Product": "BodyArmor LYTE  - Peach Mango",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 5,
+    "Revenue": 10.5
+  },
+  {
+    "Product": "Bai Antioxidant - Brasilia BB",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 4,
+    "Revenue": 10
+  },
+  {
+    "Product": "Vitamin Water - Ice Cool Blue Lavender",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 4,
+    "Revenue": 10
+  },
+  {
+    "Product": "Chum Fruit Bites - Mango/Strawberry",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 8,
+    "Revenue": 10
+  },
+  {
+    "Product": "Zevia Organic Tea - Peach",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 4,
+    "Revenue": 10
+  },
+  {
+    "Product": "Belvita Snack Packs - Blueberry",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 7,
+    "Revenue": 10
+  },
+  {
+    "Product": "Vitamin Water - Squeezed Lemonade",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 4,
+    "Revenue": 10
+  },
+  {
+    "Product": "Seapoint Farms Dry Roasted Edamame - Wasabi",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 4,
+    "Revenue": 10
+  },
+  {
+    "Product": "Autumns Granola Bar - Cinnamon Almond",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 5,
+    "Revenue": 10
+  },
+  {
+    "Product": "Pure Organic Fruit Bar - Raspberry Lemonade",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 5,
+    "Revenue": 9.5
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Jalapeno",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 6,
+    "Revenue": 9
+  },
+  {
+    "Product": "Belvita Breakfast Biscuit Bites - Blueberry",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 6,
+    "Revenue": 9
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Sea Salt & Vinega",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 6,
+    "Revenue": 9
+  },
+  {
+    "Product": "Popchips Potato - Barbeque",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 6,
+    "Revenue": 9
+  },
+  {
+    "Product": "Good Health Veggie Stix - Zesty Ranch",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 6,
+    "Revenue": 9
+  },
+  {
+    "Product": "Popchips Potato - Barbeque",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 6,
+    "Revenue": 9
+  },
+  {
+    "Product": "Popchips Potato - Sour Cream & Onion",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 6,
+    "Revenue": 9
+  },
+  {
+    "Product": "Skippy Peanut Butter - Go Paks",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 2,
+    "Revenue": 9
+  },
+  {
+    "Product": "Mini Chips Ahoy",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 6,
+    "Revenue": 9
+  },
+  {
+    "Product": "Popchips Potato - Sea Salt",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 6,
+    "Revenue": 9
+  },
+  {
+    "Product": "Bai Antioxidant - Zambia Bingcherry",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 3,
+    "Revenue": 8.25
+  },
+  {
+    "Product": "Bai Lemonade - Burundi Blueberry",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 3,
+    "Revenue": 8.25
+  },
+  {
+    "Product": "Zone Perfect - Chocolate Chip Cookie Dough",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 4,
+    "Revenue": 8
+  },
+  {
+    "Product": "RXBAR - Protein Bar - Chocolate Sea Salt",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 4,
+    "Revenue": 8
+  },
+  {
+    "Product": "RXBAR - Protein Bar - Chocolate Sea Salt",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 4,
+    "Revenue": 8
+  },
+  {
+    "Product": "Made in Nature - Mangoes Sweet & Tangy",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 4,
+    "Revenue": 8
+  },
+  {
+    "Product": "Keto Krisp - Almond Butter",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 5,
+    "Revenue": 7.5
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Sea Salt & Vinega",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 5,
+    "Revenue": 7.5
+  },
+  {
+    "Product": "Ritz Bits Peanut Butter",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 5,
+    "Revenue": 7.5
+  },
+  {
+    "Product": "Pop Corners - Kettle Corn",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 5,
+    "Revenue": 7.5
+  },
+  {
+    "Product": "Good Health Veggie Stix - Sea Salt",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 5,
+    "Revenue": 7.5
+  },
+  {
+    "Product": "Belvita Snack Packs - Chocolate",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 5,
+    "Revenue": 7.5
+  },
+  {
+    "Product": "CheezIt - Double Cheese",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 5,
+    "Revenue": 7.5
+  },
+  {
+    "Product": "Nature's Garden Trail Mix - Cranberry Healthy",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 5,
+    "Revenue": 7.5
+  },
+  {
+    "Product": "Ritz Bits Peanut Butter",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 4,
+    "Revenue": 7.5
+  },
+  {
+    "Product": "BodyArmor LYTE  - Berry Punch",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 3,
+    "Revenue": 7.5
+  },
+  {
+    "Product": "Bubly - Cherry",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 5,
+    "Revenue": 7.5
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Smokehouse BBQ",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 5,
+    "Revenue": 7.5
+  },
+  {
+    "Product": "Bubly - Mango",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 5,
+    "Revenue": 7.5
+  },
+  {
+    "Product": "Nature's Bakery Fig Bar - Blueberry",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 4,
+    "Revenue": 7.5
+  },
+  {
+    "Product": "Takis - Hot Chilli Pepper & Lime",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 5,
+    "Revenue": 7.5
+  },
+  {
+    "Product": "CheezIt - Double Cheese",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 5,
+    "Revenue": 7.25
+  },
+  {
+    "Product": "Stretch Island Fruit Leathers Snacks - Variet",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 7,
+    "Revenue": 7
+  },
+  {
+    "Product": "CheezIt - White Cheddar",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 5,
+    "Revenue": 6.5
+  },
+  {
+    "Product": "Chum Fruit Bites - Mango/Strawberry",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 5,
+    "Revenue": 6.25
+  },
+  {
+    "Product": "Cheetos Baked - Flaming Hot",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 4,
+    "Revenue": 6
+  },
+  {
+    "Product": "Bubly - Blackberry",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 4,
+    "Revenue": 6
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Sea Salt & Vinega",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 4,
+    "Revenue": 6
+  },
+  {
+    "Product": "RXBAR - Protein Bar - Peanut Butter",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 3,
+    "Revenue": 6
+  },
+  {
+    "Product": "Lindens - Chocolate Chippers",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 3,
+    "Revenue": 6
+  },
+  {
+    "Product": "Lays Baked - Original",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 4,
+    "Revenue": 6
+  },
+  {
+    "Product": "SunChips Multigrain - French Onion",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 4,
+    "Revenue": 6
+  },
+  {
+    "Product": "CheezIt - Original",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 6,
+    "Revenue": 6
+  },
+  {
+    "Product": "Bubly - Lime",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 4,
+    "Revenue": 6
+  },
+  {
+    "Product": "Pop Corners - Sea Salt",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 4,
+    "Revenue": 6
+  },
+  {
+    "Product": "Keto Bar - Chocolate Dream",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 3,
+    "Revenue": 6
+  },
+  {
+    "Product": "Keto Bar - Chocolate Dream",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 3,
+    "Revenue": 6
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Lime & Cracked Pe",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 4,
+    "Revenue": 6
+  },
+  {
+    "Product": "Nature's Garden Trail Mix - Cranberry Healthy",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 4,
+    "Revenue": 6
+  },
+  {
+    "Product": "Remedy Kombucha - Ginger Lemon",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 2,
+    "Revenue": 6
+  },
+  {
+    "Product": "Pop Corners - Spicy Queso",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 4,
+    "Revenue": 6
+  },
+  {
+    "Product": "Keep Healthy - Sea Salt Brownie",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 3,
+    "Revenue": 6
+  },
+  {
+    "Product": "Bai Antioxidant - Kupang strawberry kiwi",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 2,
+    "Revenue": 5.5
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Smokehouse BBQ",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 3,
+    "Revenue": 5
+  },
+  {
+    "Product": "Newtons Fig Bar",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 4,
+    "Revenue": 5
+  },
+  {
+    "Product": "Pure Organic Pineapple Passionfruit",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 5,
+    "Revenue": 5
+  },
+  {
+    "Product": "Nature's Garden Trail Mix - Heart Healthy Mix",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 4,
+    "Revenue": 4.5
+  },
+  {
+    "Product": "Ritz Bits Peanut Butter",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 3,
+    "Revenue": 4.5
+  },
+  {
+    "Product": "CheezIt - Cheddar Sour Cream and Onion",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 3,
+    "Revenue": 4.5
+  },
+  {
+    "Product": "Bubly - Grapefruit",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 3,
+    "Revenue": 4.5
+  },
+  {
+    "Product": "Popchips Potato - Barbeque",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 3,
+    "Revenue": 4.5
+  },
+  {
+    "Product": "Belvita Breakfast Cookies - Blueberry",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 3,
+    "Revenue": 4.5
+  },
+  {
+    "Product": "Ruffles Baked  - Cheddar & Sour Cream",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 3,
+    "Revenue": 4.5
+  },
+  {
+    "Product": "CheezIt - White Cheddar",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 3,
+    "Revenue": 4.5
+  },
+  {
+    "Product": "Quaker ButterMilk Ranch Rice Crisps",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 4,
+    "Revenue": 4.5
+  },
+  {
+    "Product": "Nature's Garden Trail Mix - Omega 3",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 4,
+    "Revenue": 4.5
+  },
+  {
+    "Product": "CheezIt - Cheddar Sour Cream and Onion",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 3,
+    "Revenue": 4.25
+  },
+  {
+    "Product": "Keto Krisp - Almond Butter",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 2,
+    "Revenue": 4
+  },
+  {
+    "Product": "Keep Healthy - Chocolate Coconut",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 2,
+    "Revenue": 4
+  },
+  {
+    "Product": "Seapoint Farms Dry Roasted Edamame - Wasabi",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 2,
+    "Revenue": 4
+  },
+  {
+    "Product": "Quaker Apple Cinnamon Rice Crisps",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 4,
+    "Revenue": 4
+  },
+  {
+    "Product": "Belvita Snack Packs - Blueberry",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 3,
+    "Revenue": 3.75
+  },
+  {
+    "Product": "CheezIt - Double Cheese",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 2,
+    "Revenue": 3
+  },
+  {
+    "Product": "CheezIt - White Cheddar",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 2,
+    "Revenue": 3
+  },
+  {
+    "Product": "KIND Bar - Dark Choc Almond SeaSalt",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 2,
+    "Revenue": 3
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Jalapeno",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 2,
+    "Revenue": 3
+  },
+  {
+    "Product": "Snyder's of Hanover Pretzel - Cheddar Cheese",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 2,
+    "Revenue": 3
+  },
+  {
+    "Product": "Good Health Veggie Stix - Zesty Ranch",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 2,
+    "Revenue": 3
+  },
+  {
+    "Product": "Lays Baked - Barbecue",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 2,
+    "Revenue": 3
+  },
+  {
+    "Product": "Cheetos Baked - Flaming Hot",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 2,
+    "Revenue": 3
+  },
+  {
+    "Product": "Spindrift - Sparkling Water  Lime",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 3,
+    "Revenue": 3
+  },
+  {
+    "Product": "Spindrift - Sparkling Water Raspberry Lime",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 2,
+    "Revenue": 3
+  },
+  {
+    "Product": "Spindrift - Sparkling Water  Lime",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 2,
+    "Revenue": 3
+  },
+  {
+    "Product": "Vitamin Water - XXX Acai BB Pomegranate",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 1,
+    "Revenue": 2.75
+  },
+  {
+    "Product": "Belvita Snack Packs - Cinnamon",
+    "Machine": "Earle Asphalt x1371",
+    "Transaction": 2,
+    "Revenue": 2.5
+  },
+  {
+    "Product": "Keto Krisp - Almond/Chocolate",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 1,
+    "Revenue": 2.25
+  },
+  {
+    "Product": "Orchard Bar - Cranberry Orange & Walnut",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 1,
+    "Revenue": 2
+  },
+  {
+    "Product": "Larabar - Peanut Butter chocolate Chip",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 1,
+    "Revenue": 2
+  },
+  {
+    "Product": "Snyder's of Hanover Pretzel Pieces - Hot Buff",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 1,
+    "Revenue": 2
+  },
+  {
+    "Product": "Orchard Bar - Pineapple Coconut & Macadamia",
+    "Machine": "EB Public Library x1380",
+    "Transaction": 1,
+    "Revenue": 2
+  },
+  {
+    "Product": "Pop Corners - White Cheddar",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 1,
+    "Revenue": 1.5
+  },
+  {
+    "Product": "Quaker Cheddar Rice Crisps",
+    "Machine": "GuttenPlans x1367",
+    "Transaction": 1,
+    "Revenue": 1.5
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Lime & Cracked Pe",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 1,
+    "Revenue": 1.5
+  },
+  {
+    "Product": "Miss Vickie's Potato Chip - Lime & Cracked Pe",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 1,
+    "Revenue": 1.5
+  },
+  {
+    "Product": "Lays Baked - Barbecue",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 1,
+    "Revenue": 1.5
+  },
+  {
+    "Product": "Chum Fruit Bites - Mango/Strawberry",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 1,
+    "Revenue": 1.25
+  },
+  {
+    "Product": "Nature's Valley Crunchy Granola Bar - Oats &",
+    "Machine": "BSQ Mall x1364 - Zales",
+    "Transaction": 1,
+    "Revenue": 1.25
+  },
+  {
+    "Product": "Nature's Valley Chewy Granola Bar - Fruit & N",
+    "Machine": "BSQ Mall x1366 - ATT",
+    "Transaction": 1,
+    "Revenue": 1.25
+  }
+]

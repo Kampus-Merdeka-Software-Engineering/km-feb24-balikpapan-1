@@ -24,7 +24,7 @@ function initializeChart(labels, revenueData, transactionData) {
         pointHoverRadius: 10,
         pointHoverBackgroundColor: "rgba(75, 192, 192, 1)",
       }, {
-        label: "Transaction",
+        label: "Transactions",
         data: transactionData,
         backgroundColor: "rgba(255, 99, 132, 0.2)",
         borderColor: "rgba(255, 99, 132, 1)",

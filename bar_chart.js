@@ -83,8 +83,8 @@ async function updateBarChart() {
 
   const dataset = [
     {
-      label: "Customer",
-      data: selectedData.Customer,
+      label: "Transactions ",
+      data: selectedData.Transaction,
       backgroundColor: "rgba(245, 245, 66, 0.5)",
       borderColor: "rgba(245, 245, 66, 1)",
       borderWidth: 3,
