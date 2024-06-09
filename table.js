@@ -2,18 +2,24 @@
 fetch('table.json')
     .then(response => response.json())
     .then(data => {
+        // Menyimpan data awal
+        const originalData = data;
+
+        // Variabel untuk menyimpan data yang sudah difilter
+        let filteredData = originalData;
+
         // Inisialisasi Grid.js
-        new gridjs.Grid({
+        const grid = new gridjs.Grid({
             columns: [
                 "Product",
                 "Machine",
                 "Transaction",
-                    {
-                        name: "Revenue",
-                        formatter: (cell) => `$${cell}` //mengubah format kolom revenue
-                    }
+                {
+                    name: "Revenue",
+                    formatter: (cell) => `$${cell}` //mengubah format kolom revenue
+                }
             ],
-            data: data.map(item => [item.Product, item.Machine, item.Transaction,item.Revenue]),
+            data: filteredData.map(item => [item.Product, item.Machine, item.Transaction, item.Revenue]),
 
             search: {
                 enabled: true,
@@ -54,5 +60,26 @@ fetch('table.json')
                 paginationSummary: 'pgSum'
             }
         }).render(document.getElementById("table-data"));
+
+        // Fungsi untuk memfilter data dan merender ulang Grid.js
+        function updateTable() {
+            const filterValue = document.getElementById("data-filter").value;
+
+            if (filterValue === "cumulative") {
+                filteredData = originalData;
+            } else {
+                filteredData = originalData.filter(item => item.Machine === filterValue);
+            }
+
+            grid.updateConfig({
+                data: filteredData.map(item => [item.Product, item.Machine, item.Transaction, item.Revenue])
+            }).forceRender();
+        }
+
+        // Memanggil fungsi updateChart() saat halaman dimuat
+        updateTable();
+
+        // Menambahkan event listener pada dropdown
+        document.getElementById("data-filter").addEventListener("change", updateTable);
     })
     .catch(error => console.error('Error fetching data:', error));
